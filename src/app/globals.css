@@ -347,10 +347,94 @@ img { max-width: 100%; height: auto; display: block; }
 .site-footer p { font-size: var(--fs-xs); color: var(--lw-sky-light); margin: 0 0 var(--space-2); }
 .site-footer nav { display: flex; flex-direction: column; gap: var(--space-2); font-size: var(--fs-xs); }
 
+
+/* ==========================================================================
+   Whimsy layer
+   Every flourish here is built from something the brand already owns: the
+   marigold smile in the wordmark, the "sticker" outline card variant, and the
+   Sunny Meadow tints. Nothing is decoration for its own sake, and all of it
+   sits behind prefers-reduced-motion.
+   ========================================================================== */
+
+/* --- The smile, reused as a heading underline ---------------------------- */
+.smile-under {
+  position: relative;
+  display: inline-block;
+}
+.smile-under::after {
+  content: "";
+  position: absolute;
+  left: 2%;
+  right: 2%;
+  bottom: -0.3em;
+  height: 0.22em;
+  background: no-repeat center / 100% 100%
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 12' preserveAspectRatio='none'%3E%3Cpath d='M2 7 C 26 12, 74 12, 98 5' fill='none' stroke='%23F4A72C' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E");
+}
+.hero .smile-under::after {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 12' preserveAspectRatio='none'%3E%3Cpath d='M2 7 C 26 12, 74 12, 98 5' fill='none' stroke='%23FBD68B' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E");
+}
+
+/* --- Hero: soft light behind the type, and a smile-shaped bottom edge ----- */
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: var(--space-20);
+}
+.hero > .wrap { position: relative; z-index: 1; }
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(38rem 30rem at 82% 18%, rgba(244, 167, 44, 0.16), transparent 70%),
+    radial-gradient(30rem 26rem at 96% 76%, rgba(154, 208, 222, 0.16), transparent 70%),
+    radial-gradient(22rem 20rem at 64% 96%, rgba(167, 206, 156, 0.12), transparent 70%);
+  pointer-events: none;
+}
+.hero-wave {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  width: 100%;
+  height: clamp(38px, 5vw, 68px);
+  display: block;
+  z-index: 1;
+}
+
+/* --- Step cards as stickers ---------------------------------------------- */
+.step {
+  border: var(--border-heavy) solid var(--border-strong);
+  box-shadow: none;
+  transition: transform var(--dur-slow) var(--ease-spring);
+}
+.steps > .step:nth-child(odd) { transform: rotate(-0.7deg); }
+.steps > .step:nth-child(even) { transform: rotate(0.7deg); }
+.steps > .step:hover { transform: rotate(0deg) translateY(-3px); }
+.step .num {
+  border: var(--border-width) solid var(--border-strong);
+  transform: rotate(-6deg);
+}
+
+/* --- Town pills as confetti ---------------------------------------------- */
+.towns li { font-size: var(--fs-xs); padding: var(--space-2) var(--space-4); }
+.towns li:nth-child(4n + 2) { background: var(--lw-sun-tint); color: var(--lw-sun-dark); }
+.towns li:nth-child(4n + 3) { background: var(--flag-free-bg); color: var(--lw-meadow-dark); }
+.towns li:nth-child(4n + 4) { background: var(--lw-berry-tint); color: var(--lw-berry-dark); }
+
+/* --- Guide cards get a touch of lift and tilt ---------------------------- */
+.post-list li:hover { transform: translateY(-3px) rotate(-0.35deg); }
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+  .steps > .step:nth-child(odd),
+  .steps > .step:nth-child(even),
+  .steps > .step:hover { transform: none; }
+  .step .num { transform: none; }
+  .post-list li:hover { transform: none; }
 }

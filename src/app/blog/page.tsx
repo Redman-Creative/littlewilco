@@ -31,7 +31,7 @@ export default function BlogIndex() {
     <section className="section">
       <div className="wrap">
         <p className="eyebrow">Guides</p>
-        <h1>Guides to Williamson County with a toddler</h1>
+        <h1><span className="smile-under">Guides to Williamson County</span> with a toddler</h1>
         <ul className="post-list" style={{ marginTop: "var(--space-10)" }}>
           {posts.map((post) => (
             <li key={post.slug}>

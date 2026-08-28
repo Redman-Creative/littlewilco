@@ -8,7 +8,7 @@ export default async function InstagramGrid() {
     <section className="section section--sunk">
       <div className="wrap">
         <p className="eyebrow">Lately on Instagram</p>
-        <h2>{site.instagramHandle}</h2>
+        <h2><span className="smile-under">{site.instagramHandle}</span></h2>
 
         {posts.length > 0 && (
           <ul className="ig-grid">

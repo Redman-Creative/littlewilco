@@ -27,12 +27,19 @@ export default function HomePage() {
             </p>
           </div>
         </div>
+
+        <svg className="hero-wave" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true">
+          <path
+            d="M0,34 C240,72 480,72 720,44 C960,16 1200,16 1440,40 L1440,70 L0,70 Z"
+            fill="var(--surface-page)"
+          />
+        </svg>
       </section>
 
       <section className="section">
         <div className="wrap">
           <p className="eyebrow">How the week runs</p>
-          <h2>Three things land in your week</h2>
+          <h2><span className="smile-under">Three things land in your week</span></h2>
           <ol className="steps" style={{ marginTop: "var(--space-8)" }}>
             <li className="step">
               <span className="num">1</span>
@@ -65,7 +72,7 @@ export default function HomePage() {
       <section className="section section--sunk">
         <div className="wrap">
           <p className="eyebrow">Where we cover</p>
-          <h2>All of Williamson County, not just Franklin</h2>
+          <h2><span className="smile-under">All of Williamson County</span>, not just Franklin</h2>
           <p className="lede" style={{ marginBottom: "var(--space-6)" }}>
             Nolensville and Fairview get left off most roundups. They do not get left off ours.
           </p>
@@ -82,7 +89,7 @@ export default function HomePage() {
       <section className="section">
         <div className="wrap">
           <p className="eyebrow">Why this exists</p>
-          <h2>Nobody was writing for the under six crowd</h2>
+          <h2><span className="smile-under">Nobody was writing for the under six crowd</span></h2>
           <div style={{ maxWidth: "60ch" }}>
             <p>
               Plenty of people post about things to do in Williamson County. Almost all of it is
@@ -104,7 +111,7 @@ export default function HomePage() {
         <section className="section">
           <div className="wrap">
             <p className="eyebrow">Guides</p>
-            <h2>Start here</h2>
+            <h2><span className="smile-under">Start here</span></h2>
             <ul className="post-list" style={{ marginTop: "var(--space-8)" }}>
               {posts.map((post) => (
                 <li key={post.slug}>
@@ -133,7 +140,7 @@ export default function HomePage() {
           <div className="card card--warm">
             <p className="eyebrow">For local businesses</p>
             <h2 style={{ marginBottom: "var(--space-4)" }}>
-              Want to get in front of Wilco parents?
+              <span className="smile-under">Want to get in front of Wilco parents?</span>
             </h2>
             <div style={{ maxWidth: "58ch" }}>
               <p>
@@ -160,7 +167,7 @@ export default function HomePage() {
 
       <section className="section">
         <div className="wrap wrap--narrow" style={{ textAlign: "center" }}>
-          <h2>Get the lineup Thursday</h2>
+          <h2><span className="smile-under">Get the lineup Thursday</span></h2>
           <p className="lede" style={{ margin: "0 auto var(--space-8)" }}>
             Plan the weekend on a Thursday night instead of scrolling for it Saturday morning.
           </p>
