@@ -1,5 +1,6 @@
 import Link from "next/link";
 import SubscribeForm from "@/components/SubscribeForm";
+import InstagramGrid from "@/components/InstagramGrid";
 import { site } from "@/lib/site";
 import { getAllPostMeta, formatDate } from "@/lib/posts";
 
@@ -97,8 +98,10 @@ export default function HomePage() {
         </div>
       </section>
 
+      <InstagramGrid />
+
       {posts.length > 0 && (
-        <section className="section section--sunk">
+        <section className="section">
           <div className="wrap">
             <p className="eyebrow">Guides</p>
             <h2>Start here</h2>

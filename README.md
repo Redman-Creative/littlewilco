@@ -31,6 +31,7 @@ npm run build
 | `NEXT_PUBLIC_GA_ID` | GA4 | `G-XXXXXXXXXX`. Omit and GA simply does not load. |
 | `BEEHIIV_API_KEY` | newsletter signup | From beehiiv Settings → API |
 | `BEEHIIV_PUBLICATION_ID` | newsletter signup | Starts with `pub_` |
+| `BEHOLD_FEED_ID` | Instagram section | Feed ID from behold.so |
 
 Vercel Web Analytics needs no key. Turn it on in the Vercel project and
 `@vercel/analytics` starts reporting.
@@ -42,6 +43,23 @@ friendly "signups open in a few days" message. Nothing is lost and nothing is
 faked. Add the two beehiiv variables and the same form starts creating real
 subscriptions with no front-end change. Swapping to Kit or Mailchimp later means
 editing one file: `src/app/api/subscribe/route.ts`.
+
+## Instagram section
+
+Posts come from [Behold](https://behold.so), which holds the Instagram
+connection and refreshes the token so it does not expire every 60 days.
+
+Setup: create a feed in Behold, connect the Little Wilco Instagram account, then
+put the feed ID in `BEHOLD_FEED_ID` on Vercel.
+
+The fetch is server-side with a 24-hour `revalidate`, which matters: Behold's
+free plan allows 1,200 feed views a month, and a client-side widget would spend
+one per visitor. Fetching once a day server-side means the site uses about 30 a
+month regardless of traffic.
+
+Without the env var the section still renders, showing the handle and the
+follow button with no grid. Same if Behold is down or the fetch fails, so a
+third-party outage can never take the page with it.
 
 ## Adding a blog post
 
