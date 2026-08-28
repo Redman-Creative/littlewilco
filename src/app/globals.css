@@ -379,9 +379,13 @@ img { max-width: 100%; height: auto; display: block; }
 /* --- Hero: soft light behind the type, and a smile-shaped bottom edge ----- */
 .hero {
   position: relative;
-  overflow: hidden;
   padding-bottom: var(--space-20);
 }
+/* No overflow:hidden here. It would clip the wave's overshoot back to the
+   hero's box, which leaves a hairline of antialiased teal along the bottom
+   edge. The overshoot paints cream onto the cream section below, so letting
+   it spill is invisible and seamless. The ::before glows are inset:0 and stay
+   inside regardless. */
 .hero > .wrap { position: relative; z-index: 1; }
 .hero::before {
   content: "";
@@ -397,7 +401,7 @@ img { max-width: 100%; height: auto; display: block; }
   position: absolute;
   left: 0;
   right: 0;
-  bottom: -1px;
+  bottom: -2px;
   width: 100%;
   height: clamp(46px, 6vw, 84px);
   display: block;
