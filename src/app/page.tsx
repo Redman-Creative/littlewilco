@@ -13,16 +13,16 @@ export default function HomePage() {
           <p className="eyebrow" style={{ color: "var(--lw-sun-light)" }}>
             This weekend in Wilco
           </p>
-          <h1>Weekend plans for Wilco families, sorted by Thursday.</h1>
+          <h1>So, what are we doing this weekend?</h1>
           <p className="lede">
-            We round up what is actually happening for kids under six across Williamson County.
-            Day, time, town, and whether it is free. Free stuff first.
+            Get the weekly roundup of what is happening for kids 6 and under in Williamson
+            County, TN.
           </p>
           <div style={{ maxWidth: 520, marginTop: "var(--space-8)" }} id="subscribe">
             <SubscribeForm />
             <p className="form-note" style={{ color: "var(--lw-sky-light)" }}>
-              One email a week, Thursday morning. Subscribers see the lineup a day before it posts
-              to Instagram. Unsubscribe any time.
+              Subscribers see the lineup a day before it posts to Instagram. Unsubscribe any
+              time.
             </p>
           </div>
         </div>
@@ -124,6 +124,36 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      <section className="section" id="partner">
+        <div className="wrap">
+          <div className="card card--warm">
+            <p className="eyebrow">For local businesses</p>
+            <h2 style={{ marginBottom: "var(--space-4)" }}>
+              Want to get in front of Wilco parents?
+            </h2>
+            <div style={{ maxWidth: "58ch" }}>
+              <p>
+                If you run something families with little kids would actually want to know about,
+                we would like to hear from you. Preschools, swim schools, music classes, kids
+                haircuts, pediatric dentists, photographers, the places that make a Saturday
+                easier.
+              </p>
+              <p>
+                Feature Friday is an editorial spotlight on one local business. Deal of the Week
+                shares an offer worth driving for. Both go out to the email list and to Instagram
+                and Facebook, and both are labeled as partnerships, because readers should always
+                know.
+              </p>
+            </div>
+            <p style={{ marginTop: "var(--space-6)", marginBottom: 0 }}>
+              <a className="btn btn--primary" href={`mailto:${site.email}?subject=Partnering%20with%20Little%20Wilco`}>
+                Tell us about your business
+              </a>
+            </p>
+          </div>
+        </div>
+      </section>
 
       <section className="section">
         <div className="wrap wrap--narrow" style={{ textAlign: "center" }}>
