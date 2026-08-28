@@ -30,7 +30,7 @@ export default function HomePage() {
 
         <svg className="hero-wave" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true">
           <path
-            d="M0,34 C240,72 480,72 720,44 C960,16 1200,16 1440,40 L1440,70 L0,70 Z"
+            d="M0,30 C240,76 490,76 720,42 C950,10 1200,10 1440,36 L1440,90 L0,90 Z"
             fill="var(--surface-page)"
           />
         </svg>

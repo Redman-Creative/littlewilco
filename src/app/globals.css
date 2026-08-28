@@ -166,7 +166,8 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--color-primary-strong);
 }
 .pill--free { background: var(--flag-free-bg); color: var(--lw-meadow-dark); }
-.pill--sun { background: var(--lw-sun-tint); color: var(--lw-sun-dark); }
+/* Ink, not sun-dark: sun-dark on sun-tint is 2.46:1 and fails AA. */
+.pill--sun { background: var(--lw-sun-tint); color: var(--text-body); }
 
 /* ---------- Hero ---------- */
 .hero {
@@ -398,7 +399,7 @@ img { max-width: 100%; height: auto; display: block; }
   right: 0;
   bottom: -1px;
   width: 100%;
-  height: clamp(38px, 5vw, 68px);
+  height: clamp(46px, 6vw, 84px);
   display: block;
   z-index: 1;
 }
@@ -419,7 +420,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* --- Town pills as confetti ---------------------------------------------- */
 .towns li { font-size: var(--fs-xs); padding: var(--space-2) var(--space-4); }
-.towns li:nth-child(4n + 2) { background: var(--lw-sun-tint); color: var(--lw-sun-dark); }
+.towns li:nth-child(4n + 2) { background: var(--lw-sun-tint); color: var(--text-body); }
 .towns li:nth-child(4n + 3) { background: var(--flag-free-bg); color: var(--lw-meadow-dark); }
 .towns li:nth-child(4n + 4) { background: var(--lw-berry-tint); color: var(--lw-berry-dark); }
 
