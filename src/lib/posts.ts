@@ -58,7 +58,7 @@ export async function getPost(slug: string): Promise<Post> {
   const meta = getPostMeta(slug);
   const { content } = matter(readFile(slug));
 
-  const processed = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(content);
+  const processed = await remark().use(remarkGfm).use(remarkHtml).process(content);
   let html = String(processed);
 
   // Tables need their own horizontal scroll container so the page body never
