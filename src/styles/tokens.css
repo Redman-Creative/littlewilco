@@ -1,0 +1,156 @@
+/* Little Wilco — design tokens.
+   Ported from the little-wilco-design system (fonts, colors, typography, spacing).
+   Font paths rewritten for Next.js /public serving. */
+
+/* ---------- Fonts: self-hosted, no CDN dependency ---------- */
+@font-face {
+  font-family: 'Bricolage Grotesque';
+  src: url('/fonts/BricolageGrotesque-var.woff2') format('woff2');
+  font-weight: 200 800;
+  font-stretch: 75% 100%;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/Karla-var.woff2') format('woff2');
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/Karla-Italic-var.woff2') format('woff2');
+  font-weight: 200 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  /* ---------- Sunny Meadow palette ---------- */
+  --lw-sun: #F4A72C;
+  --lw-sun-light: #FBD68B;
+  --lw-sun-tint: #FDEFCF;
+  --lw-sun-dark: #D9880F;
+
+  --lw-sky: #3E8EA8;
+  --lw-sky-light: #9AD0DE;
+  --lw-sky-tint: #E1F0F4;
+  --lw-sky-dark: #2A6376;
+
+  --lw-berry: #E4572E;
+  --lw-berry-light: #F39274;
+  --lw-berry-tint: #FBE2D8;
+  --lw-berry-dark: #B93C18;
+
+  --lw-meadow: #5E9A50;
+  --lw-meadow-light: #A7CE9C;
+  --lw-meadow-tint: #E4F0DE;
+  --lw-meadow-dark: #3F6E34;
+
+  --lw-cream: #FBF3E4;
+  --lw-cream-deep: #F2E6CD;
+  --lw-white: #FFFFFF;
+  --lw-ink: #2E2A25;
+  --lw-ink-soft: #6B6256;
+  --lw-ink-faint: #A79C8B;
+  --lw-hairline: #EADFC9;
+
+  /* ---------- Semantic aliases ---------- */
+  --color-primary: var(--lw-sky);
+  --color-primary-strong: var(--lw-sky-dark);
+  --color-secondary: var(--lw-sun);
+  --color-accent: var(--lw-meadow);
+  --color-support: var(--lw-berry);
+
+  --surface-page: var(--lw-cream);
+  --surface-card: var(--lw-white);
+  --surface-card-warm: var(--lw-cream);
+  --surface-sunk: var(--lw-cream-deep);
+  --surface-dark: var(--lw-sky-dark);
+
+  --text-body: var(--lw-ink);
+  --text-muted: var(--lw-ink-soft);
+  --text-faint: var(--lw-ink-faint);
+  --text-on-primary: var(--lw-white);
+  --text-on-accent: var(--lw-white);
+  --text-on-secondary: var(--lw-ink);
+  --text-on-dark: var(--lw-cream);
+
+  --border-hairline: var(--lw-hairline);
+  --border-strong: var(--lw-ink);
+
+  --flag-free: var(--lw-meadow);
+  --flag-free-bg: var(--lw-meadow-tint);
+  --flag-deal: var(--lw-berry);
+  --focus-ring: var(--lw-sky);
+
+  /* ---------- Type ---------- */
+  --font-display: 'Bricolage Grotesque', system-ui, sans-serif;
+  --font-body: 'Karla', system-ui, -apple-system, sans-serif;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+  --fw-extrabold: 800;
+
+  --fs-2xs: 12px;
+  --fs-xs: 14px;
+  --fs-sm: 16px;
+  --fs-base: 18px;
+  --fs-md: 21px;
+  --fs-lg: 26px;
+  --fs-xl: 32px;
+  --fs-2xl: 42px;
+  --fs-3xl: 56px;
+  --fs-4xl: 72px;
+
+  --lh-tight: 1.05;
+  --lh-snug: 1.2;
+  --lh-normal: 1.45;
+  --lh-relaxed: 1.6;
+
+  --ls-tight: -0.01em;
+  --ls-wide: 0.04em;
+  --ls-caps: 0.12em;
+
+  /* ---------- Space, radius, shadow, motion ---------- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-2xl: 36px;
+  --radius-pill: 999px;
+
+  --border-width: 1.5px;
+  --border-heavy: 2.5px;
+
+  --shadow-sm: 0 1px 2px rgba(46, 42, 37, 0.06), 0 2px 6px rgba(46, 42, 37, 0.05);
+  --shadow-md: 0 4px 10px rgba(46, 42, 37, 0.08), 0 10px 24px rgba(46, 42, 37, 0.07);
+  --shadow-lg: 0 10px 24px rgba(46, 42, 37, 0.10), 0 24px 48px rgba(46, 42, 37, 0.10);
+  --shadow-glow: 0 8px 22px rgba(42, 99, 118, 0.30);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+  --dur-slow: 340ms;
+
+  /* ---------- Layout ---------- */
+  --measure: 68ch;
+  --page-max: 1080px;
+  --page-gutter: var(--space-6);
+}
