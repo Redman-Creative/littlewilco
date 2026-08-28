@@ -178,6 +178,21 @@ img { max-width: 100%; height: auto; display: block; }
 .hero .lede { color: var(--lw-sky-light); max-width: 52ch; }
 .hero .smile { display: block; margin-bottom: var(--space-6); }
 
+/* On the dark hero, sky-on-sky-dark is too low contrast for the primary CTA.
+   Marigold carries the call to action instead; ink on marigold reads cleanly. */
+.hero .btn--primary {
+  background: var(--color-secondary);
+  color: var(--text-on-secondary);
+  box-shadow: var(--shadow-sm);
+}
+.hero .btn--primary:hover {
+  background: var(--lw-sun-light);
+  color: var(--text-on-secondary);
+}
+.hero .subscribe input[type="email"] {
+  border-color: transparent;
+}
+
 /* ---------- Steps ---------- */
 .steps {
   display: grid;
