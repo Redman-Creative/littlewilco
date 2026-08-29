@@ -35,11 +35,13 @@ export default function HomePage() {
 
       <section className="section">
         <div className="wrap">
-          <p className="eyebrow">How the week runs</p>
-          <h2><span className="smile-under">Three things land in your week</span></h2>
+          <h2><span className="smile-under">The activity plans, done for you</span></h2>
+          <p className="lede">
+            The best events, activities and day trips around the county, brought straight to
+            you. All you have to do is be the fun parent.
+          </p>
           <ol className="steps" style={{ marginTop: "var(--space-8)" }}>
             <li className="step">
-              <span className="num">1</span>
               <h3>Monday: registration roundup</h3>
               <p>
                 What just opened and what closes this week. Camps, swim lessons, story time
@@ -47,7 +49,6 @@ export default function HomePage() {
               </p>
             </li>
             <li className="step">
-              <span className="num">2</span>
               <h3>Thursday: the weekend lineup</h3>
               <p>
                 Everything worth the car seat, Friday through Sunday. Each one tagged with the town
@@ -55,7 +56,6 @@ export default function HomePage() {
               </p>
             </li>
             <li className="step">
-              <span className="num">3</span>
               <h3>Friday: it hits social</h3>
               <p>
                 The same lineup posts to Instagram and Facebook Friday morning, about a day after
