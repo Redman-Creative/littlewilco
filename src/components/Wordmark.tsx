@@ -27,7 +27,7 @@ export default function Wordmark({ size = 26, smile = true, className }: Props) 
           <path
             d="M6 5 C 26 22, 74 22, 94 5"
             fill="none"
-            stroke="var(--lw-sun-light)"
+            stroke="var(--lw-sun)"
             strokeWidth="11"
             strokeLinecap="round"
           />
