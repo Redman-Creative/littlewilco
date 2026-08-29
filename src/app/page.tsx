@@ -11,9 +11,6 @@ export default function HomePage() {
     <>
       <section className="hero">
         <div className="wrap">
-          <p className="eyebrow" style={{ color: "var(--lw-sun-light)" }}>
-            This weekend in Wilco
-          </p>
           <h1>So, what are we doing this weekend?</h1>
           <p className="lede">
             One email a week with what&rsquo;s going on for kids 6 and under across Williamson
