@@ -93,7 +93,7 @@ export default async function PostPage({ params }: Params) {
 
         {post.faqs && post.faqs.length > 0 && (
           <section style={{ marginTop: "var(--space-16)" }}>
-            <h2>Questions we get</h2>
+            <h2>Questions I get</h2>
             <div className="faq">
               {post.faqs.map((f) => (
                 <details key={f.q}>
@@ -108,8 +108,8 @@ export default async function PostPage({ params }: Params) {
         <section className="card card--warm" style={{ marginTop: "var(--space-16)" }}>
           <h2 style={{ marginBottom: "var(--space-3)" }}>Get this week&rsquo;s lineup</h2>
           <p style={{ color: "var(--text-muted)", fontSize: "var(--fs-sm)" }}>
-            Guides like this cover the things that stay put. The weekly email covers what is on
-            this weekend. It goes out Thursday morning.
+            Guides like this cover the things that stay put. The weekly email covers what&rsquo;s
+            on this weekend. It goes out Thursday morning.
           </p>
           <SubscribeForm id={`subscribe-${post.slug}`} />
         </section>

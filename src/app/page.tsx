@@ -16,8 +16,8 @@ export default function HomePage() {
           </p>
           <h1>So, what are we doing this weekend?</h1>
           <p className="lede">
-            Get the weekly roundup of what is happening for kids 6 and under in Williamson
-            County, TN.
+            One email a week with what&rsquo;s going on for kids 6 and under across Williamson
+            County.
           </p>
           <div style={{ maxWidth: 520, marginTop: "var(--space-8)" }} id="subscribe">
             <SubscribeForm />
@@ -54,7 +54,7 @@ export default function HomePage() {
               <h3>Thursday: the weekend lineup</h3>
               <p>
                 Everything worth the car seat, Friday through Sunday. Each one tagged with the town
-                and flagged if it is free. This goes to email first.
+                and flagged if it&rsquo;s free. This goes to email first.
               </p>
             </li>
             <li className="step">
@@ -71,10 +71,10 @@ export default function HomePage() {
 
       <section className="section section--sunk">
         <div className="wrap">
-          <p className="eyebrow">Where we cover</p>
-          <h2><span className="smile-under">All of Williamson County</span>, not just Franklin</h2>
+          <p className="eyebrow">The towns</p>
+          <h2><span className="smile-under">The whole county</span></h2>
           <p className="lede" style={{ marginBottom: "var(--space-6)" }}>
-            Nolensville and Fairview get left off most roundups. They do not get left off ours.
+            Nolensville and Fairview get left off most roundups. Not this one.
           </p>
           <ul className="towns">
             {site.towns.map((town) => (
@@ -92,14 +92,16 @@ export default function HomePage() {
           <h2><span className="smile-under">Nobody was writing for the under six crowd</span></h2>
           <div style={{ maxWidth: "60ch" }}>
             <p>
-              Plenty of people post about things to do in Williamson County. Almost all of it is
-              written for families with school age kids, and it leaves out the parts that decide
-              whether an outing works with a toddler. Is there a bathroom. Is there shade. Can a
-              stroller get around it. Does it cost anything for a two year old.
+              I&rsquo;m a Franklin mom with a toddler, and I kept hitting the same wall. Plenty of
+              people post about things to do in Williamson County, but almost all of it&rsquo;s
+              written for school age kids, and it skips the parts that decide whether an outing
+              works with a toddler. Is there a bathroom. Is there shade. Can a stroller get around
+              it. Does it cost anything for a two year old.
             </p>
             <p>
-              So we check. Every listing names the town, and anything free gets flagged, because
-              free is what most weeks call for.
+              So I check. Little Wilco is the list I wished somebody else was keeping. Every
+              listing names the town, and anything free gets flagged, because free is what most
+              weeks call for.
             </p>
           </div>
         </div>
@@ -145,12 +147,12 @@ export default function HomePage() {
             <div style={{ maxWidth: "58ch" }}>
               <p>
                 If you run something families with little kids would actually want to know about,
-                we would like to hear from you. Preschools, swim schools, music classes, kids
+                I&rsquo;d like to hear from you. Preschools, swim schools, music classes, kids
                 haircuts, pediatric dentists, photographers, the places that make a Saturday
                 easier.
               </p>
               <p>
-                Feature Friday is an editorial spotlight on one local business. Deal of the Week
+                Wilco Wednesday is an editorial spotlight on one local business. Deal of the Week
                 shares an offer worth driving for. Both go out to the email list and to Instagram
                 and Facebook, and both are labeled as partnerships, because readers should always
                 know.
@@ -158,7 +160,7 @@ export default function HomePage() {
             </div>
             <p style={{ marginTop: "var(--space-6)", marginBottom: 0 }}>
               <a className="btn btn--primary" href={`mailto:${site.email}?subject=Partnering%20with%20Little%20Wilco`}>
-                Tell us about your business
+                Tell me about your business
               </a>
             </p>
           </div>

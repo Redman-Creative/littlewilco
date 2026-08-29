@@ -10,7 +10,7 @@ faqs:
   - q: "What is the best free playground in Williamson County for a two year old?"
     a: "Crockett Park in Brentwood is the strongest documented option. The city's own description of the Community Playground notes rubberized paths that make it safe for toddlers, plus varied slide sizes and a separate Wonder Trail. It also has paved walking paths, restrooms, and picnic tables in shaded areas near the playground."
   - q: "Which Williamson County park has a paved loop for a stroller?"
-    a: "Pinkerton Park in Franklin has a one-mile paved pedestrian track that circles the whole park. Crockett Park in Brentwood also has paved walking paths and bike ways. Harlinsdale Farm does not have paved trails, so it is a harder push with a stroller."
+    a: "Pinkerton Park in Franklin has a one-mile paved pedestrian track that circles the whole park. Crockett Park in Brentwood also has paved walking paths and bike ways. Harlinsdale Farm doesn't have paved trails, so it's a harder push with a stroller."
   - q: "Are the Franklin and Brentwood splash parks free?"
     a: "Only for the youngest kids. Ages 0 to 2 are free at both. Ages 3 to 17 are $3 for county residents and $5 otherwise, adults 18 to 54 are $5 and $9, and 55 and up are $3 and $5."
   - q: "When do the splash parks close for the season in 2026?"
@@ -19,11 +19,11 @@ faqs:
     a: "It depends what you want. Harlinsdale has 200 acres of open space, a pond, and a dog park, but no playground, no paved trails, and only temporary restroom facilities. Treat it as a run-around-in-a-field stop, not a playground stop."
 ---
 
-The other reliable free morning around here is [library story time](/blog/library-story-times-williamson-county), which is where we would send you on a rainy or hundred-degree day. This list is for the days you can get outside.
+The other reliable free morning around here is [library story time](/blog/library-story-times-williamson-county), which is where I'd send you on a rainy or hundred-degree day. This list is for the days you can get outside.
 
-Most roundups of Williamson County parks list every park in the county and leave you to figure out which ones work with a two year old. This one goes the other way. Here are the free places we would actually load a toddler into the car for, and the specific reasons why.
+Most roundups of Williamson County parks list every park in the county and leave you to figure out which ones work with a two year old. This one goes the other way. These are the free places I'd actually load my toddler into the car for, and the specific reasons why.
 
-Everything below comes from the city or county page for that park, checked in August 2026. Where a page does not say something, we do not say it either. That mostly matters for fencing: no official page we checked says any of these playgrounds is fenced, so do not plan around it.
+Everything below comes from the city or county page for that park, checked in August 2026. Where a page doesn't say something, I don't say it either. That mostly matters for fencing: no official page I checked says any of these playgrounds is fenced, so don't plan around it.
 
 ## Franklin
 
@@ -31,7 +31,7 @@ Everything below comes from the city or county page for that park, checked in Au
 
 **405 Murfreesboro Road.** The one to beat if you push a stroller. A one-mile paved pedestrian track circles the whole 34-acre park, so you can do a full loop without fighting gravel or grass.
 
-There are two playgrounds: the Tinkerbell playground next to the parking area, and a second one near the pavilions. The city page does not say which suits younger kids, so plan on a look around when you get there. Restrooms are on site, and there are three rentable pavilions plus nine picnic tables with grills spread through the park.
+There are two playgrounds: the Tinkerbell playground next to the parking area, and a second one near the pavilions. The city page doesn't say which suits younger kids, so plan on a look around when you get there. Restrooms are on site, and there are three rentable pavilions plus nine picnic tables with grills spread through the park.
 
 The Sue Douglas Berry Memorial pedestrian bridge connects the park to downtown Franklin, which makes this a decent park-then-lunch morning if the nap schedule cooperates.
 
@@ -39,7 +39,7 @@ The Sue Douglas Berry Memorial pedestrian bridge connects the park to downtown F
 
 **705 Boyd Mill Avenue.** Two playgrounds, a 2.5-mile walking trail, restrooms, and two pavilions. One of the pavilions is enclosed with electrical outlets and overhead lights, which is the useful part on a cold or drizzly morning.
 
-It is a busy sports park otherwise, with twelve lighted baseball fields, four football fields, eight tennis courts and a skatepark. Weekends can be crowded with games.
+It's a busy sports park otherwise, with twelve lighted baseball fields, four football fields, eight tennis courts and a skatepark. Weekends can be crowded with games.
 
 ### Liberty Park
 
@@ -49,13 +49,13 @@ One caution: this park runs three tournament baseball fields and is heavily prog
 
 ### Bicentennial Park
 
-**400 5th Avenue North.** No playground here, so it is not a destination on its own. What it does have is shaded picnic areas, an open-air pavilion, a Harpeth River overlook, and a greenway connection to the Franklin Recreation Center. Good as a snack stop while you are already downtown.
+**400 5th Avenue North.** No playground here, so it's not a destination on its own. What it does have is shaded picnic areas, an open-air pavilion, a Harpeth River overlook, and a greenway connection to the Franklin Recreation Center. Good as a snack stop while you are already downtown.
 
 ### Harlinsdale Farm
 
 **239 Franklin Road.** Worth being clear about, because it comes up on every list: there is no playground at Harlinsdale, no paved trails, and only temporary restroom facilities. What it has is 200 acres, a five-kilometer soft track, a four-acre dog park, and a three-acre catch-and-release pond.
 
-For a toddler that adds up to a big open field to run in, which some days is exactly right. Just do not arrive expecting play equipment. The park closes dark to dawn.
+For a toddler that adds up to a big open field to run in, which some days is exactly right. Just don't arrive expecting play equipment. The park closes dark to dawn.
 
 Harlinsdale is also where the city puts its free family events, which is the better reason to have it on your radar. See below.
 
@@ -103,20 +103,20 @@ If your kid is under three, this is a free morning. All hours are weather permit
 The City of Franklin runs several free family events at Harlinsdale Farm:
 
 - **Canines and Coffee**, September 12, 2026, 8am to 10am. Free.
-- **Family Day**, Saturday November 7, 2026, 10am to 2pm. A free fall festival with wagon rides, pony rides, a petting zoo, and cane pole fishing. This is the best free fall thing we found for little kids anywhere in the county, and it beats most of the [ticketed pumpkin patches](/blog/pumpkin-patches-toddlers-franklin-tn) on price by a wide margin.
+- **Family Day**, Saturday November 7, 2026, 10am to 2pm. A free fall festival with wagon rides, pony rides, a petting zoo, and cane pole fishing. This is the best free fall thing I found for little kids anywhere in the county, and it beats most of the [ticketed pumpkin patches](/blog/pumpkin-patches-toddlers-franklin-tn) on price by a wide margin.
 - **Flashlight Candy Cane Hunt**, December 9 to 11, 2026, with 5:00pm and 6:30pm sessions. Pre-registration required and opens November 9.
 
-## Also on our list, with less certainty
+## Also on my list, with less certainty
 
-**Nolensville Park** on Rocky Fork Road has a children's playground, walking trail, restrooms and concessions. We are going off a secondary listing here rather than a town page, so treat the details as a starting point.
+**Nolensville Park** on Rocky Fork Road has a children's playground, walking trail, restrooms and concessions. I'm going off a secondary listing here rather than a town page, so treat the details as a starting point.
 
-**Fischer Park at Port Royal** in Spring Hill is the standout on that side of the county, with an ADA-compliant playground on padded artificial turf and a splash pad. Spring Hill straddles the Williamson and Maury county line, and the city's own site would not load for us, so we have not confirmed the splash pad's season or cost. Call before you count on it.
+**Fischer Park at Port Royal** in Spring Hill is the standout on that side of the county, with an ADA-compliant playground on padded artificial turf and a splash pad. Spring Hill straddles the Williamson and Maury county line, and the city's own site wouldn't load when I tried, so I haven't confirmed the splash pad's season or cost. Call before you count on it.
 
-## What we could not confirm
+## What I couldn't confirm
 
 Being straight about the gaps, since a wasted trip with a toddler is its own kind of expensive:
 
-- **No official page we checked says any of these playgrounds is fenced.** If you need enclosed, verify it yourself first.
+- **No official page I checked says any of these playgrounds is fenced.** If you need enclosed, verify it yourself first.
 - Shade is only confirmed at Crockett, Granny White and Bicentennial. The rest may or may not have it.
 - Whether Pinkerton's Tinkerbell playground or either of Jim Warren's two playgrounds skews younger. Neither city page says.
 - The full 2026 splash park season. Only the current window through September 11 is posted.

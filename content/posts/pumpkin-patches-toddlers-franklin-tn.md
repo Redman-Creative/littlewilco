@@ -25,15 +25,15 @@ Fall lists around here tend to be the same eight farms with the same photos, and
 
 ## Gentry Farm, Franklin
 
-**1974 New Highway 96 West.** The closest option and the one we would pick first with a little kid.
+**1974 New Highway 96 West.** The closest option and the one I'd pick first with a little kid.
 
 **Season: September 26 to November 1, 2026.** Saturdays 9am to 5pm, Sundays 1pm to 5pm, Mondays 9am to 1pm. Last entry is 45 minutes before closing.
 
 **Admission is $13 per person, free for children under 23 months and visitors over 65.** Pumpkins are priced separately, usually $2 to $12, and the farm suggests coming early in the season for the best variety. They grow about 20 acres a year, including heirloom and ornamental varieties.
 
-What works for the under-5 set: the tractor playground, farm animals, tire swings, wagon rides, the kids' play area, the indoor maze and the grain barn. The corn field maze, mini golf and arcade games are aimed at bigger kids, so do not build the trip around those.
+What works for the under-5 set: the tractor playground, farm animals, tire swings, wagon rides, the kids' play area, the indoor maze and the grain barn. The corn field maze, mini golf and arcade games are aimed at bigger kids, so don't build the trip around those.
 
-Two things worth knowing before you commit. **There are portable restrooms only**, no permanent facilities, which matters a lot if you are mid-potty-training. And leashed service dogs are permitted while emotional support animals are not.
+Two things worth knowing before you commit. **There are portable restrooms only**, no permanent facilities, which matters a lot if you're mid-potty-training. And leashed service dogs are permitted while emotional support animals are not.
 
 The farm estimates one to two hours to see everything, which is an honest number and a manageable one.
 
@@ -45,7 +45,7 @@ The farm estimates one to two hours to see everything, which is an honest number
 
 Everyone age two and older needs an admission ticket, so under-2s get in free. Admission covers unlimited access to the petting farm, zoo and fun park during scheduled hours. Pony rides, the petting farm and the fun park are the toddler draws.
 
-**Buy online before you go.** The farm's own warning is to plan early because of a high likelihood of selling out during October. That is not marketing language, it is on their events page.
+**Buy online before you go.** The farm's own warning is to plan early because of a high likelihood of selling out during October. That's not marketing talk, it's straight off their events page.
 
 One to skip with little kids: **a-MAZE-ing Glow Nights on October 23 and 24**, an after-dark corn maze with glowing pathways and dark turns. Limited capacity, expected to sell out, and firmly an older-kid event.
 
@@ -73,21 +73,21 @@ For a family with one small kid, the math here is hard to justify against Gentry
 
 **Saturday October 24 and Sunday October 25, 2026**, on Main Street downtown. Saturday starts at 10:00am, Sunday ends at 6:00pm.
 
-This is the 41st year and **the first time it runs two days**, which is genuinely new for 2026. Expect autumn food and drink, live music, costume contests, and a marketplace of seasonal arts and crafts. It bills itself as the largest family fall festival in Middle Tennessee, and the crowd matches.
+This is the 41st year and **the first time it runs two days**. Expect autumn food and drink, live music, costume contests, and a marketplace of seasonal arts and crafts. It bills itself as the largest family fall festival in Middle Tennessee, and the crowd matches.
 
-Honest advice for a toddler: go early Saturday or not at all. The costume contest is the piece built for little kids. We found no dedicated kids' zone listed on the official event page, so do not plan around one. Admission cost is not published.
+Honest advice for a toddler: go early Saturday or not at all. The costume contest is the piece built for little kids. I found no dedicated kids' zone listed on the official event page, so don't plan around one. Admission cost isn't published.
 
 ## The free one
 
 **Family Day at The Park at Harlinsdale Farm, Saturday November 7, 2026, 10am to 2pm.** Free, run by the City of Franklin, with wagon rides, pony rides, a petting zoo and cane pole fishing.
 
-Every other fall roundup you will read leads with $13 to $30 ticketed farms. This one costs nothing, it is in Franklin, and the activities are scaled right for little kids. Put it on the calendar now. It is on our list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
+Every other fall roundup you'll read leads with $13 to $30 ticketed farms. This one costs nothing, it's in Franklin, and the activities are scaled right for little kids. Put it on the calendar now. It's on my list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
 
 ## A note on two others
 
-**Walden Pumpkin Farm in Smyrna** has not published 2026 dates, and a July 2026 listing showed it as temporarily closed. We could not confirm either way. Call before you drive.
+**Walden Pumpkin Farm in Smyrna** hasn't published 2026 dates, and a July 2026 listing showed it as temporarily closed. I couldn't confirm either way. Call before you drive.
 
-**Morning Glory Orchard in Nolensville** is the only other in-county option we found, and their own site says they will not have u-pick this year. Since u-pick is the whole draw with little kids, we are leaving it off until that changes.
+**Morning Glory Orchard in Nolensville** is the only other in-county option I found, and their own site says they won't have u-pick this year. Since u-pick is the whole draw with little kids, I'm leaving it off until that changes.
 
 ## Quick comparison
 
@@ -98,4 +98,4 @@ Every other fall roundup you will read leads with $13 to $30 ticketed farms. Thi
 | Honeysuckle Hill | Springfield | Sep 26 to Nov 1 | $21.95 to $29.95 | Not listed |
 | Family Day at Harlinsdale | Franklin | Nov 7 only | Free | Free |
 
-Dates and prices come from each farm's own site as of August 2026. Lucky Ladd's ticket prices did not display when we checked, so confirm at checkout.
+Dates and prices come from each farm's own site as of August 2026. Lucky Ladd's ticket prices didn't display when I checked, so confirm at checkout.

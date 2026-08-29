@@ -19,9 +19,9 @@ faqs:
     a: "The Williamson County Public Library system has six locations: the main library in Franklin plus branches in Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville. Brentwood's library is separate and is not part of that count."
 ---
 
-Story time is the reliable free morning. It is indoors, it is air conditioned, and nobody minds if your kid melts down halfway through. When the weather cooperates, our list of [free playgrounds and splash parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
+Story time is the reliable free morning. It's indoors, it's air conditioned, and nobody minds if your kid melts down halfway through. When the weather cooperates, my list of [free playgrounds and splash parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
 
-The catch in Williamson County is that finding the current schedule is harder than it should be. Here is how the two systems work and where to look.
+The catch in Williamson County is that finding the current schedule is harder than it should be. Here's how the two systems work and where to look.
 
 ## Two systems, not one
 
@@ -33,15 +33,15 @@ If you live in Brentwood, you have both available to you, which is more free mor
 
 ## Where the current schedule lives
 
-This is the important part, so we will be blunt about it.
+This is the important part, so I'll be blunt about it.
 
 **For the county system, use the LibCal calendar: [williamsoncounty-tn.libcal.com/calendar](https://williamsoncounty-tn.libcal.com/calendar).** Filter by the **Early Learners (0 to 5)** audience and by branch. That filter is doing most of the work for you.
 
-Do not use the story time pages on the main library website. We checked them in August 2026 and found schedules that trace back to 2022, and a Nolensville branch page still advertising a program beginning in January 2020. Those pages rank well in search, which is exactly the problem.
+Don't use the story time pages on the main library website. I checked them in August 2026 and found schedules that trace back to 2022, and a Nolensville branch page still advertising a program beginning in January 2020. Those pages rank well in search, which is exactly the problem.
 
 **For Brentwood, use [brentwood-tn.libcal.com](https://brentwood-tn.libcal.com/)** or the children's page at [library.brentwoodtn.gov/Explore/Childrens](https://library.brentwoodtn.gov/Explore/Childrens). Brentwood's children's page is current, which is a nice change.
 
-One more search warning. If you google "Williamson library story time," you will land on williamsonlibrary.org. That is Williamson, New York. It looks convincing and it is not us.
+One more search warning. If you google "Williamson library story time," you'll land on williamsonlibrary.org. That's Williamson, New York. It looks convincing and it's not us.
 
 ## The program names to look for
 
@@ -59,7 +59,7 @@ At the **Nolensville branch** the names run a little different:
 - **Toddler Time**, 18 months to 3 years, followed by toy box play time
 - **Preschool Storytime**, ages 3 to 6, with stories, songs, fingerplays and puppets
 
-Nolensville is at 915 Oldham Drive, (615) 776-5490. That toy box play time after Toddler Time is worth knowing about, because it is the part that turns a 20-minute program into an hour out of the house.
+Nolensville is at 915 Oldham Drive, (615) 776-5490. That toy box play time after Toddler Time is worth knowing about, because it's the part that turns a 20-minute program into an hour out of the house.
 
 The county library also keeps a children's Facebook page, WCPLtnkids, where schedule updates go.
 
@@ -69,21 +69,21 @@ The county library also keeps a children's Facebook page, WCPLtnkids, where sche
 - **Toddler Time Storytime**, toddlers with caregivers. Stories, songs and toddler fun, also in the Story Room.
 - **Saturday Storytime**, family audience, stories and crafts. The Saturday option is the one to know if one parent works weekdays.
 
-Brentwood has also run two programs worth watching for, though we could only find past sessions rather than current listings:
+Brentwood has also run two programs worth watching for, though I could only find past sessions rather than current listings:
 
-- **Baby Bounce**, infants up to 18 months, with bouncing rhymes, songs and books, plus time set aside for play. This one has been ticketed. Tickets come from the Children's Desk starting at 9:00am and have to be picked up 30 minutes before the program starts, which is not something you want to learn on arrival.
+- **Baby Bounce**, infants up to 18 months, with bouncing rhymes, songs and books, plus time set aside for play. This one has been ticketed. Tickets come from the Children's Desk starting at 9:00am and have to be picked up 30 minutes before the program starts, which isn't something you want to learn on arrival.
 - **Baby Rave**, ages 0 to 3, with kid-friendly dance music and light-up toys. No registration. The library posts a warning that strobe lighting and other components may affect people with photosensitive epilepsy.
 
 ## Practical notes
 
 Story times fill up and rooms are small. Arriving ten minutes early is usually enough, except for anything ticketed.
 
-Schedules also break for holidays and staff training more often than you would expect, and the calendar is where cancellations show up first. It is worth a look the morning of rather than the night before.
+Schedules also break for holidays and staff training more often than you'd expect, and the calendar is where cancellations show up first. It's worth a look the morning of rather than the night before.
 
-## What we did not verify
+## What I didn't verify
 
-We are not printing county system days and times here, on purpose. Every static page we could reach carried a stale schedule, and the live calendar renders its listings in a way we could not read reliably. Rather than publish a time that sends you to a locked room, we are sending you to the calendar.
+I'm not printing county system days and times here, on purpose. Every static page I could reach carried a stale schedule, and the live calendar renders its listings in a way I couldn't read reliably. Rather than publish a time that sends you to a locked room, I'm sending you to the calendar.
 
-The same goes for the exact day and time of Brentwood's Preschool Storytime. The library's own program page and its parent page disagreed on dates when we checked, so confirm on LibCal or by phone at (615) 371-0090.
+The same goes for the exact day and time of Brentwood's Preschool Storytime. The library's own program page and its parent page disagreed on dates when I checked, so confirm on LibCal or by phone at (615) 371-0090.
 
 Branch addresses beyond Nolensville and Brentwood are worth confirming on the library's own locations page before you drive out to Leiper's Fork or College Grove.

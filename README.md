@@ -1,6 +1,6 @@
 # Little Wilco
 
-The weekly what's-on for Williamson County families with little kids.
+The weekly roundup for Williamson County families with little kids.
 
 Next.js (App Router) on Vercel, file-based blog, self-hosted brand fonts.
 Same stack shape as misemade.com.

@@ -9,7 +9,7 @@ export default function Footer() {
         <div>
           <Wordmark size={22} />
           <p style={{ marginTop: "var(--space-4)", maxWidth: "34ch" }}>{site.tagline}.</p>
-          <p>Made in Franklin, Tennessee.</p>
+          <p>Made by a toddler mom in Franklin, Tennessee.</p>
         </div>
         <nav aria-label="Footer">
           <Link href="/">Home</Link>
@@ -21,7 +21,7 @@ export default function Footer() {
       </div>
       <div className="wrap" style={{ marginTop: "var(--space-8)" }}>
         <p style={{ fontSize: "var(--fs-2xs)" }}>
-          &copy; {new Date().getFullYear()} Little Wilco. Event details change — always check with
+          &copy; {new Date().getFullYear()} Little Wilco. Event details change. Always check with
           the organizer before you load the car.
         </p>
       </div>
