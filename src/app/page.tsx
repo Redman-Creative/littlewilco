@@ -38,7 +38,7 @@ export default function HomePage() {
           <h2><span className="smile-under">The activity plans, done for you</span></h2>
           <p className="lede">
             The best events, activities and day trips around the county, brought straight to
-            you. All you have to do is be the fun parent.
+            you. Always be the fun parent!
           </p>
           <ol className="steps" style={{ marginTop: "var(--space-8)" }}>
             <li className="step">
