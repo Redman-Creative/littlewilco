@@ -443,3 +443,28 @@ img { max-width: 100%; height: auto; display: block; }
   .step .num { transform: none; }
   .post-list li:hover { transform: none; }
 }
+
+/* --- Simple prose list with marigold dots (used on /email) --------------- */
+.plain-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+.plain-list li {
+  position: relative;
+  padding-left: var(--space-8);
+}
+.plain-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.58em;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--color-secondary);
+}
+.plain-list strong { font-family: var(--font-display); font-weight: var(--fw-bold); }
