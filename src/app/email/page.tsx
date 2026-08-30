@@ -7,6 +7,24 @@ export const metadata: Metadata = {
   description:
     "One email a week with everything happening for Williamson County families with little kids. Subscribers get the weekend list Thursday, a day before it posts to Instagram.",
   alternates: { canonical: "/email" },
+  openGraph: {
+    type: "website",
+    siteName: site.name,
+    title: "Get the lineup Thursday",
+    description:
+      "One email a week with everything happening for Williamson County families with little kids.",
+    url: `${site.url}/email`,
+    images: [
+      { url: site.ogImage.url, width: site.ogImage.width, height: site.ogImage.height, alt: site.name },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Get the lineup Thursday",
+    description:
+      "One email a week with everything happening for Williamson County families with little kids.",
+    images: [site.ogImage.url],
+  },
 };
 
 export default function EmailPage() {

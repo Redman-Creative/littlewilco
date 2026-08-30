@@ -26,6 +26,15 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       url: `${site.url}/blog/${slug}`,
       publishedTime: meta.date,
       modifiedTime: meta.updated || meta.date,
+      images: [
+        { url: site.ogImage.url, width: site.ogImage.width, height: site.ogImage.height, alt: site.name },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: meta.title,
+      description: meta.description,
+      images: [site.ogImage.url],
     },
   };
 }

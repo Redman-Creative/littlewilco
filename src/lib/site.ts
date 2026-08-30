@@ -8,6 +8,7 @@ export const site = {
   instagram: "https://www.instagram.com/littlewilco",
   instagramHandle: "@littlewilco",
   facebook: "https://www.facebook.com/littlewilco",
+  ogImage: { url: "/brand/littlewilco-og-1200x630.png", width: 1200, height: 630 },
   towns: [
     "Franklin",
     "Brentwood",

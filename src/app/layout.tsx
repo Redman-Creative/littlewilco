@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     description: site.description,
     url: site.url,
     locale: "en_US",
-    images: [{ url: "/brand/littlewilco-profile-1080.png", width: 1080, height: 1080, alt: site.name }],
+    images: [{ url: site.ogImage.url, width: site.ogImage.width, height: site.ogImage.height, alt: site.name }],
   },
   twitter: {
     card: "summary_large_image",
     title: `${site.name} | ${site.tagline}`,
     description: site.description,
-    images: ["/brand/littlewilco-profile-1080.png"],
+    images: [site.ogImage.url],
   },
   icons: {
     icon: "/brand/littlewilco-profile-1080.png",
