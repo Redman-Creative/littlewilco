@@ -5,14 +5,14 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Get the lineup Thursday",
   description:
-    "One email a week with everything happening for Williamson County families with little kids. Subscribers get the weekend list Thursday, a day before it posts to Instagram.",
+    "Everything happening in Williamson County for families with little kids, in your inbox. Subscribers get the weekend list Thursday, a day before it posts to Instagram.",
   alternates: { canonical: "/email" },
   openGraph: {
     type: "website",
     siteName: site.name,
     title: "Get the lineup Thursday",
     description:
-      "One email a week with everything happening for Williamson County families with little kids.",
+      "Everything happening in Williamson County for families with little kids, in your inbox Thursday mornings.",
     url: `${site.url}/email`,
     images: [
       { url: site.ogImage.url, width: site.ogImage.width, height: site.ogImage.height, alt: site.name },
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Get the lineup Thursday",
     description:
-      "One email a week with everything happening for Williamson County families with little kids.",
+      "Everything happening in Williamson County for families with little kids, in your inbox Thursday mornings.",
     images: [site.ogImage.url],
   },
 };
@@ -33,8 +33,8 @@ export default function EmailPage() {
       <div className="wrap wrap--narrow">
         <h1><span className="smile-under">Get the lineup Thursday</span></h1>
         <p className="lede" style={{ marginTop: "var(--space-6)" }}>
-          One email a week. You get the weekend list Thursday morning, a day before the short
-          version posts to Instagram.
+          The weekend list lands Thursday morning, a day before the short version posts to
+          Instagram.
         </p>
 
         <div style={{ marginTop: "var(--space-10)" }}>
@@ -42,22 +42,24 @@ export default function EmailPage() {
         </div>
 
         <div className="card card--outline" style={{ marginTop: "var(--space-12)" }}>
-          <h2 style={{ marginBottom: "var(--space-6)" }}>What is in it</h2>
+          <h2 style={{ marginBottom: "var(--space-6)" }}>What&rsquo;s in it</h2>
           <ul className="plain-list">
             <li>
-              <strong>Everything, not the five that fit on a card.</strong> The Friday post is the
-              highlight reel. The email is the whole weekend.
+              <strong>The whole weekend.</strong> The Friday card fits about five things. The
+              email has everything I found.
             </li>
             <li>
-              <strong>The ones that need a phone call,</strong> with the number, because half the
-              good stuff around here never makes it onto a calendar page.
+              <strong>The address and the real price.</strong> Street address, not the town, and
+              the price tiers broken out, including the add-ons that show up at checkout. If a
+              place never posted its hours, I call.
             </li>
             <li>
-              <strong>What to skip.</strong> Which one is tight for nap time, where parking is
-              miserable after ten, what is worth the drive and what is not.
+              <strong>What to skip.</strong> The one that lands in the middle of nap, and the
+              thing the website still lists that isn&rsquo;t running this week.
             </li>
             <li>
-              <strong>The rainy day backup,</strong> since this is Tennessee in the spring.
+              <strong>An indoor option every week.</strong> Ninety-five degrees or pouring rain,
+              there&rsquo;s still somewhere to go.
             </li>
           </ul>
         </div>

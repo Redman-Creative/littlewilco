@@ -1,8 +1,8 @@
 export const site = {
   name: "Little Wilco",
-  tagline: "The weekly roundup for Williamson County families with little kids",
+  tagline: "The weekly roundup of activities in Williamson County for families with little kids",
   description:
-    "A weekly roundup of things to do for Williamson County families with kids under 6. Franklin, Brentwood, Nolensville, Spring Hill, Thompson's Station, Fairview and College Grove.",
+    "A weekly roundup of activities in Williamson County for families with kids under 6. Franklin, Brentwood, Nolensville, Spring Hill, Thompson's Station, Fairview and College Grove.",
   url: (process.env.NEXT_PUBLIC_SITE_URL || "https://littlewilco.com").replace(/\/$/, ""),
   email: "hello@littlewilco.com",
   instagram: "https://www.instagram.com/littlewilco",

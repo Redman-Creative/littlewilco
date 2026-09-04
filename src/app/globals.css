@@ -194,6 +194,12 @@ img { max-width: 100%; height: auto; display: block; }
   border-color: transparent;
 }
 
+/* The form status colors are tuned for the cream page. On the dark hero the
+   green lands at about 1.2:1, so a subscriber gets no visible confirmation.
+   The tints keep the same meaning and clear AA. */
+.hero .form-msg--ok { color: var(--lw-meadow-tint); }
+.hero .form-msg--err { color: var(--lw-berry-tint); }
+
 /* ---------- Steps ---------- */
 .steps {
   display: grid;

@@ -13,8 +13,7 @@ export default function HomePage() {
         <div className="wrap">
           <h1>So, what are we doing this weekend?</h1>
           <p className="lede">
-            One email a week with what&rsquo;s going on for kids 6 and under across Williamson
-            County.
+            Everything going on for kids 6 and under across Williamson County, in your inbox.
           </p>
           <div style={{ maxWidth: 520, marginTop: "var(--space-8)" }} id="subscribe">
             <SubscribeForm />
@@ -89,7 +88,13 @@ export default function HomePage() {
           <h2><span className="smile-under">Nobody was writing for the under six crowd</span></h2>
           <div style={{ maxWidth: "60ch" }}>
             <p>
-              I&rsquo;m a Franklin mom with a toddler, and I kept hitting the same wall. Plenty of
+              The best activities to do with my toddler have always come from another mom telling
+              me about it. The rest of the time I was scrolling on a Saturday morning and coming up
+              with nothing, or finding something good and then scrambling to pack up and get there
+              before it ended.
+            </p>
+            <p>
+              I&rsquo;m a Franklin mom, and I kept hitting the same wall. Plenty of
               people post about things to do in Williamson County, but almost all of it&rsquo;s
               written for school age kids, and it skips the parts that decide whether an outing
               works with a toddler. Is there a bathroom. Is there shade. Can a stroller get around
