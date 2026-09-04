@@ -1,6 +1,6 @@
 ---
-title: "Pumpkin patches near Franklin that actually work with a toddler"
-description: "2026 dates, prices, and the details nobody prints: which farms are free for under-2s, which one has portable restrooms only, and which sells out in October."
+title: "Pumpkin patches near Franklin that work with a toddler"
+description: "2026 dates, prices, and the details that are easy to miss: which farms are free for under-2s, which one has portable restrooms only, and which sells out in October."
 answer: "Gentry Farm in Franklin is the closest and the easiest with a toddler. It runs September 26 to November 1, 2026, costs $13 per person, and is free for children under 23 months. Lucky Ladd Farms in Eagleville runs September 16 to October 31 and is free under age 2, but it sells out in October so buy online first. For a free option, the City of Franklin's Family Day at Harlinsdale Farm on November 7 has wagon rides, pony rides and a petting zoo at no cost."
 date: "2026-08-26"
 updated: "2026-08-28"
@@ -21,7 +21,7 @@ faqs:
     a: "It is a very large crowd event on closed downtown streets, so go early on Saturday if you go. The costume contest is the most toddler-friendly part. In 2026 it runs October 24 and 25, the first year it expands to two days."
 ---
 
-Fall lists around here tend to be the same eight farms with the same photos, and half of them are still running last year's dates. These are the 2026 dates as each farm publishes them, plus the operational stuff that decides whether a trip with a two year old goes well.
+We start asking about pumpkins in August around here. These are the 2026 dates as each farm publishes them, plus the operational stuff that decides whether a trip with a two year old goes well.
 
 ## Gentry Farm, Franklin
 
@@ -45,7 +45,7 @@ The farm estimates one to two hours to see everything, which is an honest number
 
 Everyone age two and older needs an admission ticket, so under-2s get in free. Admission covers unlimited access to the petting farm, zoo and fun park during scheduled hours. Pony rides, the petting farm and the fun park are the toddler draws.
 
-**Buy online before you go.** The farm's own warning is to plan early because of a high likelihood of selling out during October. That's not marketing talk, it's straight off their events page.
+**Buy online before you go.** The farm's own warning is to plan early because of a high likelihood of selling out during October. That's straight off their events page.
 
 One to skip with little kids: **a-MAZE-ing Glow Nights on October 23 and 24**, an after-dark corn maze with glowing pathways and dark turns. Limited capacity, expected to sell out, and firmly an older-kid event.
 
@@ -67,7 +67,7 @@ Pricing is the highest of the three and there is **no free toddler age listed**:
 
 Admission covers more than 20 activities. The toddler-appropriate ones are the carousel, petting farm, tree house village, jumping pillows and the hayride, plus the weekend shows: raccoon band, pig races and the pumpkin cannon. The zip line, obstacle course and corn maze are for older kids. Premium attractions need separately sold punch cards, $14.95 to $26.95.
 
-For a family with one small kid, the math here is hard to justify against Gentry. For a family with a five year old and a toddler, it makes more sense.
+For a family with one small kid, the math is hard to justify next to Gentry. For a family with a five year old and a toddler, it makes more sense.
 
 ## Franklin Pumpkinfest
 
@@ -75,19 +75,19 @@ For a family with one small kid, the math here is hard to justify against Gentry
 
 This is the 41st year and **the first time it runs two days**. Expect autumn food and drink, live music, costume contests, and a marketplace of seasonal arts and crafts. It bills itself as the largest family fall festival in Middle Tennessee, and the crowd matches.
 
-Honest advice for a toddler: go early Saturday or not at all. The costume contest is the piece built for little kids. I found no dedicated kids' zone listed on the official event page, so don't plan around one. Admission cost isn't published.
+Honest advice for a toddler: go early Saturday. The costume contest is the piece built for little kids. I found no dedicated kids' zone listed on the official event page, so don't plan around one. Admission cost isn't published.
 
 ## The free one
 
 **Family Day at The Park at Harlinsdale Farm, Saturday November 7, 2026, 10am to 2pm.** Free, run by the City of Franklin, with wagon rides, pony rides, a petting zoo and cane pole fishing.
 
-Every other fall roundup you'll read leads with $13 to $30 ticketed farms. This one costs nothing, it's in Franklin, and the activities are scaled right for little kids. Put it on the calendar now. It's on my list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
+This one costs nothing, it's in Franklin, and the activities are scaled right for little kids. Put it on the calendar now. It's on my list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
 
 ## A note on two others
 
 **Walden Pumpkin Farm in Smyrna** hasn't published 2026 dates, and a July 2026 listing showed it as temporarily closed. I couldn't confirm either way. Call before you drive.
 
-**Morning Glory Orchard in Nolensville** is the only other in-county option I found, and their own site says they won't have u-pick this year. Since u-pick is the whole draw with little kids, I'm leaving it off until that changes.
+**Morning Glory Orchard in Nolensville** is the only other in-county option I found, and their own site says they won't have u-pick this year. Since u-pick is the main draw with little kids, I'm leaving it off until that changes.
 
 ## Quick comparison
 

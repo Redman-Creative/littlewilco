@@ -1,6 +1,6 @@
 ---
 title: "Library story times for babies and toddlers in Williamson County"
-description: "Which libraries run story time for the under-5 crowd, the program names to look for, and the two calendars that actually stay current. Checked August 2026."
+description: "Which libraries run story time for the under-5 crowd, the program names to look for, and the two calendars that stay current. Checked August 2026."
 answer: "Williamson County has two separate library systems running story times for little kids. The Williamson County Public Library system covers the main Franklin library plus branches in Nolensville, Fairview, Bethesda, Leiper's Fork and College Grove, and posts its schedule on its LibCal calendar with an Early Learners (0 to 5) filter. The John P. Holt Brentwood Library is a separate city system with its own calendar and its own preschool, toddler and Saturday story times."
 date: "2026-08-27"
 updated: "2026-08-28"
@@ -8,7 +8,7 @@ category: "Free stuff"
 towns: ["Franklin", "Brentwood", "Nolensville", "Fairview", "Thompson's Station", "College Grove"]
 faqs:
   - q: "Where do I find the current story time schedule for Williamson County libraries?"
-    a: "Use the library's LibCal calendar at williamsoncounty-tn.libcal.com/calendar and filter by the Early Learners (0 to 5) audience. The static pages on the main library website carry schedules that are several years out of date, so the calendar is the only reliable source."
+    a: "Use the library's LibCal calendar at williamsoncounty-tn.libcal.com/calendar and filter by the Early Learners (0 to 5) audience. The static pages on the main library website carry schedules that are several years out of date, so the calendar is the one to trust."
   - q: "Does Brentwood have its own library story times?"
     a: "Yes. The John P. Holt Brentwood Library at 8109 Concord Road is run by the City of Brentwood, separate from the county system, and runs its own Preschool Storytime, Toddler Time Storytime and Saturday Storytime. Its calendar is at brentwood-tn.libcal.com."
   - q: "Is there a story time for babies under one?"
@@ -21,7 +21,7 @@ faqs:
 
 Story time is the reliable free morning. It's indoors, it's air conditioned, and nobody minds if your kid melts down halfway through. When the weather cooperates, my list of [free playgrounds and splash parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
 
-The catch in Williamson County is that finding the current schedule is harder than it should be. Here's how the two systems work and where to look.
+The tricky part in Williamson County is finding the current schedule. Here's how the two systems work and where to look.
 
 ## Two systems, not one
 
@@ -33,13 +33,13 @@ If you live in Brentwood, you have both available to you, which is more free mor
 
 ## Where the current schedule lives
 
-This is the important part, so I'll be blunt about it.
+This is the important part.
 
 **For the county system, use the LibCal calendar: [williamsoncounty-tn.libcal.com/calendar](https://williamsoncounty-tn.libcal.com/calendar).** Filter by the **Early Learners (0 to 5)** audience and by branch. That filter is doing most of the work for you.
 
-Don't use the story time pages on the main library website. I checked them in August 2026 and found schedules that trace back to 2022, and a Nolensville branch page still advertising a program beginning in January 2020. Those pages rank well in search, which is exactly the problem.
+Don't use the story time pages on the main library website. I checked them in August 2026 and found schedules that trace back to 2022, and a Nolensville branch page still advertising a program beginning in January 2020. Those pages rank well in search, which is how most people end up on them.
 
-**For Brentwood, use [brentwood-tn.libcal.com](https://brentwood-tn.libcal.com/)** or the children's page at [library.brentwoodtn.gov/Explore/Childrens](https://library.brentwoodtn.gov/Explore/Childrens). Brentwood's children's page is current, which is a nice change.
+**For Brentwood, use [brentwood-tn.libcal.com](https://brentwood-tn.libcal.com/)** or the children's page at [library.brentwoodtn.gov/Explore/Childrens](https://library.brentwoodtn.gov/Explore/Childrens). Brentwood's children's page stays current.
 
 One more search warning. If you google "Williamson library story time," you'll land on williamsonlibrary.org. That's Williamson, New York. It looks convincing and it's not us.
 

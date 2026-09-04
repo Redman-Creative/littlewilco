@@ -148,7 +148,7 @@ export default function HomePage() {
             </h2>
             <div style={{ maxWidth: "58ch" }}>
               <p>
-                If you run something families with little kids would actually want to know about,
+                If you run something families with little kids would be glad to know about,
                 I&rsquo;d like to hear from you. Preschools, swim schools, music classes, kids
                 haircuts, pediatric dentists, photographers, the places that make a Saturday
                 easier.
