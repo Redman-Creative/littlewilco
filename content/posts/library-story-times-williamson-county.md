@@ -1,89 +1,127 @@
 ---
 title: "Library story times for babies and toddlers in Williamson County"
-description: "Which libraries run story time for the under-5 crowd, the program names to look for, and the two calendars that stay current. Checked August 2026."
-answer: "Williamson County has two separate library systems running story times for little kids. The Williamson County Public Library system covers the main Franklin library plus branches in Nolensville, Fairview, Bethesda, Leiper's Fork and College Grove, and posts its schedule on its LibCal calendar with an Early Learners (0 to 5) filter. The John P. Holt Brentwood Library is a separate city system with its own calendar and its own preschool, toddler and Saturday story times."
+description: "Fall 2026 story time days and times at every county branch, plus the Brentwood and Spring Hill libraries, sorted by day of the week and by age."
+answer: "Williamson County has three library systems running story times for little kids. The county system (main library in Franklin plus Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville) runs Babies & Books, Toddler Story Time and Pre-K Story Time at the main library on Tuesday, Wednesday and Thursday mornings. The John P. Holt Brentwood Library and the Spring Hill Public Library are run by their cities on separate calendars, and both have a Saturday morning option."
 date: "2026-08-27"
-updated: "2026-08-28"
+updated: "2026-10-03"
 category: "Free stuff"
-towns: ["Franklin", "Brentwood", "Nolensville", "Fairview", "Thompson's Station", "College Grove"]
+towns: ["Franklin", "Brentwood", "Spring Hill", "Nolensville", "Fairview", "Thompson's Station", "College Grove"]
 faqs:
-  - q: "Where do I find the current story time schedule for Williamson County libraries?"
-    a: "Use the library's LibCal calendar at williamsoncounty-tn.libcal.com/calendar and filter by the Early Learners (0 to 5) audience. The static pages on the main library website carry schedules that are several years out of date, so the calendar is the one to trust."
-  - q: "Does Brentwood have its own library story times?"
-    a: "Yes. The John P. Holt Brentwood Library at 8109 Concord Road is run by the City of Brentwood, separate from the county system, and runs its own Preschool Storytime, Toddler Time Storytime and Saturday Storytime. Its calendar is at brentwood-tn.libcal.com."
+  - q: "When is story time at the Williamson County Public Library in Franklin?"
+    a: "For fall 2026 at the main library, 1314 Columbia Avenue: Babies & Books (0 to 18 months) on Tuesdays, Toddler Story Time (18 months to 3) on Wednesdays, and Pre-K Story Time (ages 3 to 5) on Thursdays. Each one runs twice, at 9:30 and 10:30am."
+  - q: "Does Brentwood have a separate library story time?"
+    a: "Yes. The John P. Holt Brentwood Library at 8109 Concord Road is run by the City of Brentwood. It has Toddler Time on Tuesdays and Wednesdays at 10am, Preschool Storytime on the same days at 11am, Baby Bounce on Thursdays at 9:30am, and Saturday Storytime at 10:30am."
   - q: "Is there a story time for babies under one?"
-    a: "Both systems have run programs aimed at the youngest group. In the county system look for Snuggle Bug Story Time and, at the Nolensville branch, Love Bug Lapsit. Brentwood has run a Baby Bounce program for infants up to 18 months. Check the calendars for what is currently scheduled."
+    a: "Yes, a few. Babies & Books at the main Franklin library is for 0 to 18 months on Tuesdays. Nolensville has Baby & Me Playtime on Fridays, Brentwood has Baby Bounce on Thursdays, and Spring Hill has Baby Time for birth to 2 on Mondays and Saturdays."
+  - q: "Is there a Saturday story time near Franklin?"
+    a: "Brentwood's library has Saturday Storytime at 10:30am most of the year, with a break in June and July. Spring Hill's library has Baby Time for birth to 2 on Saturdays at 9:30am."
+  - q: "When is story time at the Bethesda library?"
+    a: "The Bethesda branch, 4905 Bethesda Road in Thompson's Station, has Story Time on Wednesdays from 10:30 to 11:30am for toddlers and preschoolers."
   - q: "Do you need to register for library story time?"
-    a: "Most story times are drop-in, but not all. Brentwood's Baby Bounce has required tickets picked up from the Children's Desk starting at 9:00am, with pickup needed 30 minutes before the program starts. Check the listing for the specific session before you go."
-  - q: "How many library branches are in Williamson County?"
-    a: "The Williamson County Public Library system has six locations: the main library in Franklin plus branches in Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville. Brentwood's library is separate and is not part of that count."
+    a: "Most are drop-in. Toddler Time at the Leiper's Fork branch is capped at 12 kids and needs registration, and some Brentwood programs give out free tickets at the Children's Desk shortly before they start. The calendar listing for each session says which."
 ---
 
-Story time is the reliable free morning. It's indoors, it's air conditioned, and nobody minds if your kid melts down halfway through. When the weather cooperates, my list of [free playgrounds and splash parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
+Story time is my go-to free morning. It's indoors and free, and nobody minds if your kid melts down halfway through. When the weather cooperates, my list of [free playgrounds and parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
 
-The tricky part in Williamson County is finding the current schedule. Here's how the two systems work and where to look.
+These are the fall 2026 schedules, checked October 3. Libraries pause for holidays and staff training, so it's worth a look at the calendar the morning you go.
 
-## Two systems, not one
+## Story time by day
 
-**Williamson County Public Library** covers six locations: the main library in Franklin, plus branches in Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville.
+| Day | Library | Program | Time |
+| --- | --- | --- | --- |
+| Monday | Spring Hill | Baby Time, birth to 2 | 9:30am |
+| Monday | Brentwood | Preschool Open Play, ages 2 to 6 | 10am |
+| Monday | Brentwood | Baby Open Play, 2 and under | 11am |
+| Tuesday | Franklin (main) | Babies & Books, 0 to 18 months | 9:30 and 10:30am |
+| Tuesday | Brentwood | Toddler Time, 18 months to 3 | 10am |
+| Tuesday | Brentwood | Preschool Storytime, 3 to 5 | 11am |
+| Tuesday | Spring Hill | Story Time, preschool | 10am |
+| Tuesday | Nolensville | Toddler Story Time | 10:30am |
+| Tuesday | Leiper's Fork | Preschool Story Time, 3 to 5 | 10am, most weeks |
+| Wednesday | Franklin (main) | Toddler Story Time, 18 months to 3 | 9:30 and 10:30am |
+| Wednesday | Brentwood | Toddler Time, 18 months to 3 | 10am |
+| Wednesday | Brentwood | Preschool Storytime, 3 to 5 | 11am |
+| Wednesday | Bethesda | Story Time | 10:30am |
+| Wednesday | Leiper's Fork | Toddler Time, 18 to 35 months, register | 10am, most weeks |
+| Thursday | Franklin (main) | Pre-K Story Time, 3 to 5 | 9:30 and 10:30am |
+| Thursday | Brentwood | Baby Bounce, up to 18 months | 9:30am |
+| Thursday | Nolensville | Preschool Story Time | 10:30am |
+| Thursday | College Grove | Story Time | 10:30am |
+| Thursday | Fairview | Story Time, 3 to 5 | 11am |
+| Friday | Nolensville | Baby & Me Playtime with story time | 10am |
+| Saturday | Spring Hill | Baby Time, birth to 2 | 9:30am |
+| Saturday | Brentwood | Saturday Storytime | 10:30am |
 
-**The John P. Holt Brentwood Library** at 8109 Concord Road is run by the City of Brentwood and is not part of the county system. Different calendar, different programs.
+## Three systems, three calendars
 
-If you live in Brentwood, you have both available to you, which is more free mornings than most of the county gets.
+The county, Brentwood and Spring Hill each run a library, so there are three calendars to know.
 
-## Where the current schedule lives
+**Williamson County Public Library** has six locations: the main library in Franklin, plus branches in Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville. Its event calendar is at [wcpltn.org/calendar.aspx](https://www.wcpltn.org/calendar.aspx), and you can pick a single branch. Some older story time pages from past years still turn up in search, so go by the calendar.
 
-This is the important part.
+**The John P. Holt Brentwood Library** is run by the City of Brentwood. Its calendar is at [brentwood-tn.libcal.com](https://brentwood-tn.libcal.com/), and the day view is the easiest to read.
 
-**For the county system, use the LibCal calendar: [williamsoncounty-tn.libcal.com/calendar](https://williamsoncounty-tn.libcal.com/calendar).** Filter by the **Early Learners (0 to 5)** audience and by branch. That filter is doing most of the work for you.
+**The Spring Hill Public Library** is run by the City of Spring Hill. Its calendar is at [springhilltn.libcal.com](https://springhilltn.libcal.com/).
 
-Don't use the story time pages on the main library website. I checked them in August 2026 and found schedules that trace back to 2022, and a Nolensville branch page still advertising a program beginning in January 2020. Those pages rank well in search, which is how most people end up on them.
+One search tip: williamsonlibrary.org is the library in Williamson, New York. It comes up for "Williamson library story time," and it isn't ours.
 
-**For Brentwood, use [brentwood-tn.libcal.com](https://brentwood-tn.libcal.com/)** or the children's page at [library.brentwoodtn.gov/Explore/Childrens](https://library.brentwoodtn.gov/Explore/Childrens). Brentwood's children's page stays current.
+## The county libraries
 
-One more search warning. If you google "Williamson library story time," you'll land on williamsonlibrary.org. That's Williamson, New York. It looks convincing and it's not us.
+### Main library, Franklin
 
-## The program names to look for
+**1314 Columbia Avenue.** Every story time here runs twice, at 9:30 and 10:30am, so if the first one is full or nap runs long, there's a second chance.
 
-Schedules move around by season, but the program names stay fairly stable. Knowing what to scan for makes the calendar much faster to read.
+- **Babies & Books**, Tuesdays, 0 to 18 months
+- **Toddler Story Time**, Wednesdays, 18 months to 3
+- **Pre-K Story Time**, Thursdays, ages 3 to 5
 
-### County system
+### Nolensville
 
-- **Snuggle Bug Story Time**, newborn up to 18 months
-- **Toddler Story Time**, 18 months to 3 years
-- **Preschool Story Time**, ages 3 to 5
+**915 Oldham Drive.**
 
-At the **Nolensville branch** the names run a little different:
+- **Toddler Story Time**, Tuesdays at 10:30am
+- **Preschool Story Time**, Thursdays at 10:30am
+- **Baby & Me Playtime with story time**, Fridays at 10am, for babies up to 18 months
 
-- **Love Bug Lapsit**, 0 to 18 months
-- **Toddler Time**, 18 months to 3 years, followed by toy box play time
-- **Preschool Storytime**, ages 3 to 6, with stories, songs, fingerplays and puppets
+### Bethesda
 
-Nolensville is at 915 Oldham Drive, (615) 776-5490. That toy box play time after Toddler Time is worth knowing about, because it's the part that turns a 20-minute program into an hour out of the house.
+**4905 Bethesda Road, Thompson's Station.** **Story Time** on Wednesdays, 10:30 to 11:30am, for toddlers and preschoolers.
 
-The county library also keeps a children's Facebook page, WCPLtnkids, where schedule updates go.
+### Leiper's Fork
 
-### Brentwood
+**5333 Old Highway 96, Franklin.** These two don't run every week, so check the calendar first.
 
-- **Preschool Storytime**, ages 3 to 5 with caregivers. Stories, songs and fingerplays in the Story Room.
-- **Toddler Time Storytime**, toddlers with caregivers. Stories, songs and toddler fun, also in the Story Room.
-- **Saturday Storytime**, family audience, stories and crafts. The Saturday option is the one to know if one parent works weekdays.
+- **Preschool Story Time**, Tuesdays 10 to 11am, ages 3 to 5
+- **Toddler Time**, Wednesdays 10 to 11am, 18 to 35 months. It's capped at 12 kids and you need to register.
 
-Brentwood has also run two programs worth watching for, though I could only find past sessions rather than current listings:
+### College Grove
 
-- **Baby Bounce**, infants up to 18 months, with bouncing rhymes, songs and books, plus time set aside for play. This one has been ticketed. Tickets come from the Children's Desk starting at 9:00am and have to be picked up 30 minutes before the program starts, which isn't something you want to learn on arrival.
-- **Baby Rave**, ages 0 to 3, with kid-friendly dance music and light-up toys. No registration. The library posts a warning that strobe lighting and other components may affect people with photosensitive epilepsy.
+**8607 Horton Highway.** **Story Time** on Thursdays, 10:30 to 11:30am.
 
-## Practical notes
+### Fairview
 
-Story times fill up and rooms are small. Arriving ten minutes early is usually enough, except for anything ticketed.
+**2240 Fairview Boulevard.** **Story Time** on Thursdays, 11am to noon, for ages 3 to 5. They also host special guest story times now and then.
 
-Schedules also break for holidays and staff training more often than you'd expect, and the calendar is where cancellations show up first. It's worth a look the morning of rather than the night before.
+## Brentwood
 
-## What I didn't verify
+**John P. Holt Brentwood Library, 8109 Concord Road.** If you live in Brentwood or nearby, this library plus the county system gives you a story time almost every weekday.
 
-I'm not printing county system days and times here, on purpose. Every static page I could reach carried a stale schedule, and the live calendar renders its listings in a way I couldn't read reliably. Rather than publish a time that sends you to a locked room, I'm sending you to the calendar.
+- **Toddler Time**, Tuesdays and Wednesdays, 10 to 10:30am, 18 months to 3
+- **Preschool Storytime**, Tuesdays and Wednesdays, 11 to 11:30am, ages 3 to 5
+- **Baby Bounce**, Thursdays, 9:30 to 10:30am, up to 18 months, with bouncing rhymes, songs and time to play
+- **Saturday Storytime**, Saturdays 10:30 to 11am, with a break in June and July. This is the one to know if you work weekdays.
+- **Preschool Open Play**, Mondays 10 to 11am, ages 2 to 6, and **Baby Open Play**, Mondays 11 to 11:45am, 2 and under
 
-The same goes for the exact day and time of Brentwood's Preschool Storytime. The library's own program page and its parent page disagreed on dates when I checked, so confirm on LibCal or by phone at (615) 371-0090.
+Some Brentwood programs hand out free tickets at the Children's Desk about 30 minutes before they start. The calendar listing says when one does.
 
-Branch addresses beyond Nolensville and Brentwood are worth confirming on the library's own locations page before you drive out to Leiper's Fork or College Grove.
+## Spring Hill
+
+**Spring Hill Public Library, 144 Kedron Parkway.**
+
+- **Baby Time**, Mondays and Saturdays, 9:30 to 10:30am, birth to 2
+- **Story Time**, Tuesdays, 10 to 11am, for preschoolers
+
+## A few tips
+
+The rooms are small and the popular ones fill up. Getting there ten minutes early is usually enough.
+
+Libraries skip story time for holidays and staff training more than you'd expect, and the calendar is where that shows up first. A quick look that morning saves a wasted trip.
