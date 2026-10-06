@@ -3,6 +3,9 @@ import Link from "next/link";
 import { getAllPostMeta, formatDate } from "@/lib/posts";
 import { site } from "@/lib/site";
 
+// Re-render hourly so posts scheduled for a future date show up on that date.
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "Guides",
   description:

@@ -21,7 +21,7 @@ faqs:
     a: "Most are drop-in. Toddler Time at the Leiper's Fork branch is capped at 12 kids and needs registration, and some Brentwood programs give out free tickets at the Children's Desk shortly before they start. The calendar listing for each session says which."
 ---
 
-Story time is my go-to free morning. It's indoors and free, and nobody minds if your kid melts down halfway through. When the weather cooperates, my list of [free playgrounds and parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
+Story time is my go-to free morning. It's indoors and free, and nobody minds if a toddler melts down halfway through. When the weather cooperates, my list of [free playgrounds and parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
 
 These are the fall 2026 schedules, checked October 3. Libraries pause for holidays and staff training, so it's worth a look at the calendar the morning you go.
 

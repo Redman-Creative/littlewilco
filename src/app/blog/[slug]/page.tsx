@@ -7,6 +7,9 @@ import { site } from "@/lib/site";
 
 type Params = { params: Promise<{ slug: string }> };
 
+// Re-render hourly so posts scheduled for a future date go live on that date.
+export const revalidate = 3600;
+
 export function generateStaticParams() {
   return getPostSlugs().map((slug) => ({ slug }));
 }

@@ -4,6 +4,9 @@ import InstagramGrid from "@/components/InstagramGrid";
 import { site } from "@/lib/site";
 import { getAllPostMeta, formatDate } from "@/lib/posts";
 
+// Re-render hourly so scheduled guides appear in "Guides" on their date.
+export const revalidate = 3600;
+
 export default function HomePage() {
   const posts = getAllPostMeta().slice(0, 3);
 

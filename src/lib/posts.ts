@@ -29,12 +29,41 @@ function readFile(slug: string) {
   return fs.readFileSync(full, "utf8");
 }
 
-export function getPostSlugs(): string[] {
+/** Every post file, including ones scheduled for a future date. */
+function getAllSlugs(): string[] {
   if (!fs.existsSync(POSTS_DIR)) return [];
   return fs
     .readdirSync(POSTS_DIR)
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
+}
+
+/**
+ * Today's date in Central time as YYYY-MM-DD. Williamson County is Central, so a
+ * post dated 2026-10-08 goes live at midnight Central on October 8.
+ */
+export function todayCentral(): string {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/Chicago",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date());
+}
+
+/**
+ * Scheduled publishing: a post whose `date` is in the future stays hidden from
+ * every page, the sitemap and its own URL until that date. The blog pages
+ * revalidate hourly (plus a daily cron at /api/revalidate), so a scheduled post
+ * appears on its date without a new deploy.
+ */
+export function isPublished(date: string): boolean {
+  return !!date && date <= todayCentral();
+}
+
+/** Slugs of posts that are live today. */
+export function getPostSlugs(): string[] {
+  return getAllSlugs().filter((slug) => isPublished(getPostMeta(slug).date));
 }
 
 export function getPostMeta(slug: string): PostMeta {

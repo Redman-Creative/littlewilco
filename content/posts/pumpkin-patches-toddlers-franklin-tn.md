@@ -88,7 +88,7 @@ There's food, live music, a craft marketplace, costume contests and a KidZone, a
 
 ## The free one: Family Day at Harlinsdale
 
-**Saturday November 7, 2026**, at The Park at Harlinsdale Farm, 239 Franklin Road. It's the City of Franklin's free fall festival, and past years have had wagon rides, pony rides, a petting zoo and cane pole fishing. I haven't been able to find the 2026 hours yet, and I'll add them here once the city posts them.
+**Saturday November 7, 2026, 10am to 2pm**, at The Park at Harlinsdale Farm, 239 Franklin Road. It's the City of Franklin's free fall festival, with wagon rides, pony rides, a petting zoo and cane pole fishing.
 
 It's on my list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
 

@@ -14,7 +14,7 @@ faqs:
   - q: "Are the Franklin and Brentwood splash parks free?"
     a: "For kids 2 and under, yes. Everyone else pays: $3 for ages 3 to 17 and $5 for adults if you live in the county, or $5 and $9 if you don't. Both splash parks are closed for 2026 and the county says they reopen in May 2027."
   - q: "Are there free toddler events in Franklin this fall?"
-    a: "The City of Franklin's Family Day at Harlinsdale Farm is Saturday November 7, 2026, and it's free. The Franklin Christmas Parade is Saturday December 5 at 1pm downtown, and the Flashlight Candy Cane Hunt at Harlinsdale is in December for ages 2 to 12, with registration opening in November."
+    a: "The City of Franklin's Family Day at Harlinsdale Farm is Saturday November 7, 2026, 10am to 2pm, and it's free. The Franklin Christmas Parade is Saturday December 5 at 1pm downtown, and the free Flashlight Candy Cane Hunt at Harlinsdale is December 9 to 11, with registration opening November 9."
   - q: "Is Harlinsdale Farm good for toddlers?"
     a: "It's great for running around, but there's no playground, no paved trail and only temporary restrooms. Think of it as a big open field rather than a playground stop."
 ---
@@ -89,9 +89,9 @@ Trails close when they're wet, so call ahead at (615) 799-5544, extension 1, aft
 
 The City of Franklin puts on several free events, most of them at Harlinsdale Farm:
 
-- **Family Day**, Saturday November 7, 2026, at Harlinsdale. A free fall festival that has had wagon rides, pony rides, a petting zoo and cane pole fishing in past years. 2026 hours aren't posted yet. It covers a lot of what the [ticketed pumpkin patches](/blog/pumpkin-patches-toddlers-franklin-tn) do.
+- **Family Day**, Saturday November 7, 2026, at Harlinsdale. 10am to 2pm. A free fall festival with wagon rides, pony rides, a petting zoo and cane pole fishing. It covers a lot of what the [ticketed pumpkin patches](/blog/pumpkin-patches-toddlers-franklin-tn) do.
 - **Franklin Christmas Parade**, Saturday December 5, 2026, at 1pm downtown. That's right at nap time for a lot of toddlers.
-- **Flashlight Candy Cane Hunt** at Harlinsdale, in December, with 5pm and 6:30pm sessions for ages 2 to 12. Each session is capped at 200 kids and registration opens in November. The city's pages list both December 9 to 11 and December 10 to 11, so I'll update this once the registration page is up.
+- **Flashlight Candy Cane Hunt** at Harlinsdale, December 9, 10 and 11, with sessions at 5pm and 6:30pm. It's free, and pre-registration is required. Registration opens November 9. Bring a flashlight.
 
 ## The splash parks, for next summer
 
@@ -106,4 +106,4 @@ Admission is the same at both:
 | 18 to 54 | $5 | $9 |
 | 55 and up | $3 | $5 |
 
-If your kid is under 3, it's a free morning. I'll update this post with 2027 dates and hours once the county posts them.
+For kids under 3, it's a free morning. I'll update this post with 2027 dates and hours once the county posts them.

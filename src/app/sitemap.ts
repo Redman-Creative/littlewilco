@@ -2,6 +2,9 @@ import type { MetadataRoute } from "next";
 import { getAllPostMeta } from "@/lib/posts";
 import { site } from "@/lib/site";
 
+// Re-render hourly so scheduled posts join the sitemap on their date.
+export const revalidate = 3600;
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPostMeta();
 
