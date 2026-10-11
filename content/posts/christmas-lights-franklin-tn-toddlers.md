@@ -44,9 +44,9 @@ Zoolumination isn't running this year. The zoo canceled it for 2026, so if an ol
 
 ### Holly Jolly Festival of Lights at Lucky Ladd Farms, Eagleville
 
-**4306 Rocky Glade Road.** A mile-long walk-through trail, on select dates **November 27 to December 23.** Tickets for ages 2 and up are $12 to $18 online or $17 to $26 at the gate, kids under 2 are free, and parking is free. Online tickets have to be bought at least an hour before you go.
+**4306 Rocky Glade Road.** A mile-long walk-through trail, on select dates **November 27 to December 23.** Tickets for ages 2 and up are $12 to $16 online or $19 to $23 at the gate, kids under 2 are free, and parking is free. Online tickets have to be bought at least an hour before you go.
 
-There's a playground, animals in Habitat Hall and campfires, with character visits on Fridays and Saturdays. Pony rides and s'mores cost extra. The farm closes for bad weather on the day of, so check before you drive out if it's been raining.
+Santa is there every night from 6 to 8pm for photos. There's also a playground, animals in Habitat Hall and campfires, with character visits on Fridays and Saturdays. Pony rides and s'mores cost extra. The farm closes for bad weather on the day of, so check before you drive out if it's been raining.
 
 ## A few tips with little kids
 

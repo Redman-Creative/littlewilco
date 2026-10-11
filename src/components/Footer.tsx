@@ -14,6 +14,7 @@ export default function Footer() {
         <nav aria-label="Footer">
           <Link href="/">Home</Link>
           <Link href="/blog">Guides</Link>
+          <Link href="/discounts">Reader discounts</Link>
           <Link href="/#subscribe">Weekend lineup</Link>
           <a href={site.instagram} rel="me noopener">Instagram</a>
           <a href={`mailto:${site.email}`}>{site.email}</a>

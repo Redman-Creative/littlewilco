@@ -1,13 +1,13 @@
 ---
 title: "The Nutcracker with little kids near Franklin"
 description: "The Franklin Nutcracker, Nashville Ballet's Nutcracker at TPAC, and two shorter Nutcracker events built for preschoolers, with 2026 dates, run times and ticket rules."
-answer: "The Franklin Nutcracker, by the Fellowship School of Creative Arts, plays December 12 and 13, 2026 at 2pm and 6:30pm at the Franklin Special School District Performing Arts Center. Nashville Ballet's Nashville's Nutcracker runs November 27 to December 27 at TPAC, about two hours with intermission, and every person needs a ticket regardless of age. For preschoolers, the Nutcracker Tea on November 22 has a shortened, interactive performance, and the Nutcracker Camp on November 14 is for ages 3 to 8."
+answer: "The Franklin Nutcracker, by the Fellowship School of Creative Arts, plays December 12 and 13, 2026 at 2pm and 6:30pm at the Franklin Special School District Performing Arts Center, and NS Dance Academy's Nutcracker plays the same stage on December 19 at 2pm and 6pm. Nashville Ballet's Nashville's Nutcracker runs November 27 to December 27 at TPAC, about two hours with intermission, and every person needs a ticket regardless of age. For preschoolers, the Nutcracker Tea on November 22 has a shortened, interactive performance, and the Nutcracker Camp on November 14 is for ages 3 to 8."
 date: "2026-11-06"
 category: "Seasonal"
 towns: ["Franklin", "Brentwood"]
 faqs:
   - q: "Is there a Nutcracker in Franklin, TN?"
-    a: "Yes. The Franklin Nutcracker plays Saturday December 12 and Sunday December 13, 2026, at 2pm and 6:30pm both days, at the Franklin Special School District Performing Arts Center, 1030 Excellence Way."
+    a: "Yes, a few. The Franklin Nutcracker plays Saturday December 12 and Sunday December 13, 2026, at 2pm and 6:30pm both days, and NS Dance Academy's Nutcracker plays Saturday December 19 at 2pm and 6pm. Both are at the Franklin Special School District Performing Arts Center, 1030 Excellence Way. A touring Nutcracker: Symphony of Lights comes to the Williamson County Performing Arts Center on November 24 at 7pm."
   - q: "How long is Nashville's Nutcracker?"
     a: "About two hours. Each act runs 51 minutes, with a 20-minute intermission."
   - q: "Do babies and toddlers need a ticket for the Nutcracker at TPAC?"
@@ -22,9 +22,17 @@ The Nutcracker is a lot of sitting for a toddler, but the music is familiar and 
 
 **Franklin Special School District Performing Arts Center, 1030 Excellence Way, Franklin.** Put on by the Fellowship School of Creative Arts.
 
-**Saturday December 12 and Sunday December 13, 2026, at 2pm and 6:30pm.** The school hadn't posted ticket prices or a run time yet when I checked. Watch fellowshipcreativearts.org.
+**Saturday December 12 and Sunday December 13, 2026, at 2pm and 6:30pm.** Tickets are on sale now through fellowshipcreativearts.org.
 
 It's close to home and has a local cast, which makes it a lower-stakes first ballet than a trip downtown. With a little one, I'd pick a 2pm show.
+
+## The Nutcracker by NS Dance Academy
+
+**Franklin Special School District Performing Arts Center, 1030 Excellence Way, Franklin. Saturday December 19, 2026, at 2pm and 6pm.** A classical Nutcracker with a youth cast from the Brentwood studio. The studio said in late September that more than half the seats were already sold, so don't wait on this one. Tickets start at $25 through nsdanceacademy.com.
+
+## Also in Franklin
+
+**The Nutcracker: Symphony of Lights, presented by Artistic Space Productions. Williamson County Performing Arts Center, 112 Everbright Avenue. Tuesday November 24, 7pm.** A touring production with costumes that light up, $39 to $49. It's a weeknight evening show, so it suits a preschooler who's fine up past bedtime.
 
 ## Nashville's Nutcracker at TPAC
 

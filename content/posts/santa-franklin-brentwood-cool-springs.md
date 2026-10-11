@@ -1,10 +1,10 @@
 ---
 title: "Where to see Santa in Franklin, Brentwood and Cool Springs"
 description: "2026 Santa visits around Williamson County: the free photo spots, Morning with Santa in Brentwood, story time with Santa in Nolensville, CoolSprings Galleria and more."
-answer: "Santa visits in Williamson County this year include the Nolensville Storytime with Santa and Mrs. Claus on Friday December 4 at 6pm at Town Hall, Brentwood's Morning with Santa at the John P. Holt Brentwood Library on Saturday December 5 from 9 to 11am, Father and Mother Christmas at Dickens of a Christmas in downtown Franklin on December 12 and 13, and free Santa photos at FrankTown Festival of Lights. Santa at CoolSprings Galleria has been free to visit in past years, with photo packages for sale."
+answer: "Santa visits in Williamson County this year include the Nolensville Storytime with Santa and Mrs. Claus on Friday December 4 at 6pm at Town Hall, Brentwood's Morning with Santa at the John P. Holt Brentwood Library on Saturday December 5 from 9 to 11am, free Santa photos at Holiday at the Station in Thompson's Station on Sunday December 6, a free Santa's Sensory Wonderland for special-needs families at the Franklin Marriott Cool Springs on December 12, Father and Mother Christmas at Dickens of a Christmas in downtown Franklin on December 12 and 13, and free Santa photos at FrankTown Festival of Lights. Santa at CoolSprings Galleria has been free to visit in past years, with photo packages for sale."
 date: "2026-11-04"
 category: "Seasonal"
-towns: ["Franklin", "Brentwood", "Nolensville"]
+towns: ["Franklin", "Brentwood", "Nolensville", "Thompson's Station"]
 faqs:
   - q: "Is it free to see Santa at CoolSprings Galleria?"
     a: "Visiting Santa at the Galleria has been free, with photo packages for sale. Last year he was on the lower level at Center Court near Dillard's, and reservations were taken online through VIP Holiday Photos."
@@ -40,9 +40,17 @@ Some kids run at Santa and some scream at him, and you won't know which kind you
 
 Santa rides in the Franklin Christmas Parade on Saturday December 5 at 1pm downtown.
 
+### Holiday at the Station, Thompson's Station
+
+**Thompson's Station Town Hall, 1110 Fountain View Boulevard. Sunday December 6, 3 to 5pm.** The Thompson's Station Community Association's free afternoon has photos with Santa, crafts, games, food, music and a tree lighting.
+
 ### Dickens of a Christmas, Franklin
 
-**Main Street, downtown Franklin. Saturday December 12, 10am to 6pm, and Sunday December 13, 11am to 5pm.** A Victorian Father and Mother Christmas hand out treats to children. A shuttle runs from The Park at Harlinsdale Farm for $1 each way.
+**Main Street, downtown Franklin. Saturday December 12, 10am to 6pm, and Sunday December 13, 11am to 5pm.** A Victorian Father and Mother Christmas hand out treats to children. A $1 shuttle runs each way from The Park at Harlinsdale Farm, and from Franklin High School on Sunday.
+
+### Santa's Sensory Wonderland, Cool Springs
+
+**Franklin Marriott Cool Springs, 700 Cool Springs Boulevard. Saturday December 12, 10am to 1pm.** A free Santa event for families of kids with special needs, with kids' activities and a resource fair of local therapists and providers. It's co-hosted by Light Hill Meats and Mindful Voices Autism Consulting.
 
 ## CoolSprings Galleria
 
@@ -52,11 +60,13 @@ Booking a time slot is the move with a toddler, since a long line is hard on lit
 
 ## Worth the drive
 
-**Cookies and Cocoa with Santa, Lucky Ladd Farms, 4306 Rocky Glade Road, Eagleville.** December 11, 12, 13, 18, 19 and 20. Cocoa or milk, cookie decorating, a reindeer food craft, story time and an ornament, plus a visit with Santa and Mrs. Claus. It's $20 for ages 2 and up and $10 under 2, and tickets have to be bought ahead. You take your own photos.
+**Cookies and Cocoa with Santa, Lucky Ladd Farms, 4306 Rocky Glade Road, Eagleville.** December 11, 12, 13, 18, 19 and 20, with seatings at 4pm on Fridays and 2:30 and 4pm on weekends, plus a 1pm seating on December 19 and 20. Cocoa or milk, cookie decorating, a reindeer food craft, story time and an ornament, plus a visit with Santa and Mrs. Claus. It's $20 for ages 2 and up, or $36 combined with the Holly Jolly lights trail. A baby under 2 only needs the $10 ticket to join in or meet Santa. Tickets have to be bought ahead, and you take your own photos.
+
+**Santa at Holly Jolly, Lucky Ladd Farms.** You can meet Santa and take photos at the Holly Jolly Festival of Lights nightly from 6 to 8pm, November 27 to December 23 on select dates.
 
 **Glow Wild at the Nashville Zoo.** Santa is at the zoo's light show from November 27 to December 24. Tickets are $27, and kids under 2 are free with a ticket.
 
-**Bass Pro Shops, 323 Opry Mills Drive, Nashville.** Santa's Wonderland runs through most of November and December, with a free photo. Reservations open in early November at basspro.com/santa.
+**Bass Pro Shops, 323 Opry Mills Drive, Nashville.** Santa's Wonderland runs through most of November and December, with a free photo, and Bass Pro's countdown has Santa arriving Saturday November 7 at 5pm. Reservations open in early November at basspro.com/santa.
 
 ## A few tips
 

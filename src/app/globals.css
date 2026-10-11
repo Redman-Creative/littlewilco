@@ -474,3 +474,80 @@ img { max-width: 100%; height: auto; display: block; }
   background: var(--color-secondary);
 }
 .plain-list strong { font-family: var(--font-display); font-weight: var(--fw-bold); }
+
+/* --- Reader discounts (/discounts) -------------------------------------- */
+/* Straight cards, no tilt: these get read closely, code and all. */
+.deal-list {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-6) 0 0;
+  display: grid;
+  gap: var(--space-8);
+}
+.deal {
+  background: var(--surface-card);
+  border-radius: var(--radius-xl);
+  padding: var(--space-8);
+  box-shadow: var(--shadow-md);
+  scroll-margin-top: var(--space-8);
+}
+.deal__tags { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-bottom: var(--space-4); }
+.pill--partner { background: var(--lw-berry-tint); color: var(--lw-berry-dark); }
+.deal__title { font-size: var(--fs-lg); margin-bottom: var(--space-1); }
+.deal__business { color: var(--text-muted); font-size: var(--fs-sm); margin-bottom: var(--space-6); }
+.deal-code {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  background: var(--lw-sun-tint);
+  border: var(--border-width) dashed var(--border-strong);
+  border-radius: var(--radius-lg);
+  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-5);
+  margin-bottom: var(--space-6);
+}
+.deal-code__label {
+  flex-basis: 100%;
+  font-size: var(--fs-2xs);
+  font-weight: var(--fw-bold);
+  text-transform: uppercase;
+  letter-spacing: var(--ls-caps);
+  color: var(--text-muted);
+}
+.deal-code__value {
+  flex: 1 0 auto;
+  font-family: var(--font-display);
+  font-weight: var(--fw-bold);
+  font-size: clamp(20px, 5vw, var(--fs-lg));
+  letter-spacing: 0.04em;
+  color: var(--text-body);
+  white-space: nowrap;
+}
+.deal-code__copy {
+  font-family: var(--font-display);
+  font-weight: var(--fw-bold);
+  font-size: var(--fs-sm);
+  background: var(--surface-card);
+  color: var(--text-body);
+  border: var(--border-width) solid var(--border-strong);
+  border-radius: var(--radius-pill);
+  padding: var(--space-2) var(--space-5);
+  cursor: pointer;
+  transition: transform var(--dur-fast) var(--ease-spring);
+}
+.deal-code__copy:active { transform: scale(0.96); }
+.deal__fine { font-size: var(--fs-sm); color: var(--text-muted); }
+.deal__actions { display: flex; flex-wrap: wrap; gap: var(--space-3); margin: var(--space-6) 0; }
+.deal__meta { font-size: var(--fs-2xs); color: var(--text-faint); margin-bottom: var(--space-1); }
+@media (max-width: 480px) {
+  .deal { padding: var(--space-6); }
+}
+
+/* Partner disclosure above a sponsored post's body */
+.post-disclosure {
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+  border-left: 4px solid var(--lw-berry);
+  padding-left: var(--space-4);
+  margin-bottom: var(--space-8);
+}

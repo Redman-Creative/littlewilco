@@ -3,7 +3,7 @@ title: "Pumpkin patches near Franklin that work with a toddler"
 description: "2026 dates and prices for Gentry Farm, Noble Springs Dairy, Lucky Ladd and more, plus which ones let little kids in free and which ones sell out in October."
 answer: "Gentry Farm in Franklin is the closest and the one I'd pick first with a toddler. It's open weekends and Monday mornings from September 26 to November 1, 2026, it's $13 a person, and kids under 2 are free. Noble Springs Dairy, also in Franklin, is $12 with baby goats to hold and free for 2 and under, but tickets are sold by date and they sell out. Lucky Ladd Farms in Eagleville runs through October 31, starts at $10 online, and kids under 2 get in free."
 date: "2026-08-26"
-updated: "2026-10-03"
+updated: "2026-10-07"
 category: "Seasonal"
 towns: ["Franklin", "Nolensville"]
 faqs:
@@ -42,6 +42,8 @@ The restrooms are portable toilets, which is good to know if you're in the middl
 **Select days through October 31, 2026.** Wednesdays and Fridays 10am to 1pm, Saturdays 10am to 2pm, and Sundays 1 to 4pm. Not every day is open, so pick from their calendar.
 
 **$12 a person, and 2 and under are free.** Tickets are sold by date, ahead of time, and dates do sell out. They stay open in ordinary rain and only close for severe weather, in which case they'll refund your tickets or move them to another day.
+
+They also host **Goats & Guitars**, an evening of live music with the baby goats, on Friday October 9, 4 to 8pm with music starting at 5, and again Saturday October 24, when they haven't posted the time yet. It's $15 a person and free for 2 and under. Bring chairs, and outside food is allowed.
 
 ## Lucky Ladd Farms, Eagleville
 
@@ -86,15 +88,17 @@ It costs more than Gentry and it's a long drive. It makes the most sense if you'
 
 There's food, live music, a craft marketplace, costume contests and a KidZone, and no admission is listed. It draws a big crowd, so with a toddler I'd be there right at 10 on Saturday.
 
-## The free one: Family Day at Harlinsdale
+## The free ones
 
-**Saturday November 7, 2026, 10am to 2pm**, at The Park at Harlinsdale Farm, 239 Franklin Road. It's the City of Franklin's free fall festival, with wagon rides, pony rides, a petting zoo and cane pole fishing.
+**Fall Festival at Riverbend Nurseries, 2008 Lewisburg Pike, Franklin. Saturday October 10, 10am to 2pm.** Free, with hayrides, pumpkin painting, a petting zoo, a bounce house and face painting. Food is for sale.
+
+**Family Day at The Park at Harlinsdale Farm, 239 Franklin Road. Saturday November 7, 2026, 10am to 2pm.** It's the City of Franklin's free fall festival, with wagon rides, pony rides, a petting zoo and cane pole fishing.
 
 It's on my list of [free things to do with a toddler in Williamson County](/blog/free-things-to-do-with-toddlers-williamson-county) too.
 
 ## A note on Morning Glory Orchard
 
-Morning Glory Orchard in Nolensville said in August that they wouldn't have u-pick this year, so I've left it off the list for now.
+Morning Glory Orchard in Nolensville said in August that they wouldn't have u-pick this year, and the orchard grounds are closed to the public through October 31 for school field trips. The store stays open Tuesday through Saturday, 9am to 5pm, and the grounds reopen for self-guided visits November 3 to 7, Tuesday through Friday, 9am to 2pm.
 
 ## Side by side
 

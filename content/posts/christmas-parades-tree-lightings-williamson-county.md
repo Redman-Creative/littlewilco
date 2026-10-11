@@ -1,10 +1,10 @@
 ---
 title: "Christmas parades and tree lightings in Williamson County"
 description: "2026 dates and start times for the Franklin, Spring Hill, Nolensville and Fairview Christmas parades and the Franklin, Nolensville and Brentwood tree lightings, with tips for going with a toddler."
-answer: "The Franklin Christmas Parade is Saturday December 5, 2026, at 1pm downtown, and streets close at 11:45am. Nolensville's Holiday Parade is the same morning at 11am, and Fairview's steps off at 10am. Spring Hill's Christmas Parade is Saturday December 12 at 5pm. The tree lightings are Franklin's on the Public Square on Friday December 4, Nolensville's at Town Hall on December 4 at 7pm, and Brentwood's at the John P. Holt Brentwood Library on Monday December 7 at 5:30pm."
+answer: "The Franklin Christmas Parade is Saturday December 5, 2026, at 1pm downtown, and streets close at 11:45am. Nolensville's Holiday Parade is the same morning at 11am, and Fairview's steps off at 10am. Spring Hill's Christmas Parade is Saturday December 12 at 5pm. The tree lightings are Franklin's on the Public Square on Friday December 4, Nolensville's at Town Hall on December 4 at 7pm, Thompson's Station's at Holiday at the Station on Sunday December 6, and Brentwood's at the John P. Holt Brentwood Library on Monday December 7 at 5:30pm."
 date: "2026-11-11"
 category: "Seasonal"
-towns: ["Franklin", "Brentwood", "Spring Hill", "Nolensville", "Fairview"]
+towns: ["Franklin", "Brentwood", "Spring Hill", "Nolensville", "Fairview", "Thompson's Station", "College Grove"]
 faqs:
   - q: "When is the Franklin Christmas parade in 2026?"
     a: "Saturday December 5 at 1pm in downtown Franklin. It's put on by the Downtown Franklin Rotary Club, streets close at 11:45am, and it runs rain or shine. This year the route runs in the reverse direction."
@@ -46,11 +46,21 @@ The Rotary Club's parade rules note that parking is limited and recommend carpoo
 
 ### Fairview Christmas Parade
 
-**Saturday December 5, 10am.** It steps off from Westwood Elementary and follows Highway 96 North to Fairview Boulevard. If the weather is bad, the rain date is December 12.
+**Saturday December 5, 10am.** This year's theme is "Hard Candy Christmas." It steps off from Westwood Elementary and follows Highway 96 North to Fairview Boulevard. If the weather is bad, the rain date is December 12.
 
 ### Morning with Santa, Brentwood
 
 Not a parade, but on the same morning: Santa is at the John P. Holt Brentwood Library, 8109 Concord Road, from 9 to 11am.
+
+## Sunday December 6
+
+### Holiday at the Station, Thompson's Station
+
+**Thompson's Station Town Hall, 1110 Fountain View Boulevard, 3 to 5pm.** The Thompson's Station Community Association's free afternoon has photos with Santa, crafts, games, food, music and a tree lighting.
+
+### College Grove Christmas Parade
+
+The parade's Facebook page says it runs the first Sunday in December at 2pm, which is December 6 this year, with lineup at 1pm at the College Grove Recreation Center, 6600 Depot Street. They hadn't posted a 2026 event when I checked.
 
 ## Monday December 7
 
@@ -66,7 +76,7 @@ Not a parade, but on the same morning: Santa is at the John P. Holt Brentwood Li
 
 ### Dickens of a Christmas
 
-**Main Street, downtown Franklin. Saturday December 12, 10am to 6pm, and Sunday December 13, 11am to 5pm.** There's no admission fee listed. Father and Mother Christmas hand out treats to children, and there's a Victorian village with dancers, characters and story times. Street parking isn't available inside the festival, and a shuttle runs from The Park at Harlinsdale Farm for $1 each way.
+**Main Street, downtown Franklin. Saturday December 12, 10am to 6pm, and Sunday December 13, 11am to 5pm.** There's no admission fee listed. Father and Mother Christmas hand out treats to children, and there's a Victorian village with dancers, characters and story times. Street parking isn't available inside the festival. A $1 shuttle runs each way from The Park at Harlinsdale Farm, and from Franklin High School on Sunday.
 
 ## More Santa and lights
 

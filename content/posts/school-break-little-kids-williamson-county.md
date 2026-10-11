@@ -30,6 +30,7 @@ Looking ahead, Williamson County Schools' winter break is Monday December 21 thr
 - **Spring Hill Public Library** is open Monday through Wednesday and closed Thursday through Saturday, November 26 to 28.
 - **Let It Shine Gymnastics** doesn't hold open play during school breaks because the gym runs camps.
 - **Urban Air Cool Springs** opens at 4pm on weekdays, and its toddler Jumperoo time doesn't run on school holidays.
+- **The Monkey's Treehouse** in Brentwood is closed on Thanksgiving Day.
 - **The Nashville Zoo** is closed during the day on Thanksgiving, though Glow Wild tickets are on sale for that night. **Cheekwood** is closed Thanksgiving day and night.
 
 ## Before Thanksgiving: Monday to Wednesday
@@ -39,6 +40,8 @@ Looking ahead, Williamson County Schools' winter break is Monday December 21 thr
 **Babies & Books, Williamson County Public Library, 1314 Columbia Avenue, Franklin.** Tuesday November 24, at 9:30 and 10:30am, for 0 to 18 months.
 
 **Thanksgiving camp at Let It Shine Gymnastics, Franklin.** Monday November 23 and Tuesday November 24, 8:30am to 3pm. The TOTS group is ages 3 and 4. It's $75 a day, or $70 for members, with $5 off for siblings. Register through the gym's parent portal.
+
+**Thanksgiving Week Camp at LPG Sports Academy, 109 Rand Place, Suite 2, Franklin.** Monday November 23 through Wednesday November 25, with mornings 9:30am to noon, afternoons 1 to 3:30pm, or a full day. It's a multi-sport camp for ages 3 to 9, with soccer, baseball, basketball, flag football, hockey and dodgeball. A morning or afternoon session is $119, and a full day is $189.
 
 **Indoor play.** Little Diggers in Franklin is open daily 9am to 5pm, and TN Kids Co in Nolensville is open Monday through Saturday 9am to 7pm. My [indoor play guide](/blog/indoor-play-toddlers-williamson-county) has prices and ages for those and the others. Holiday weeks can change hours, so a quick look at their pages is worth it.
 
@@ -50,7 +53,7 @@ Looking ahead, Williamson County Schools' winter break is Monday December 21 thr
 
 ## The weekend after
 
-**Holly Jolly Festival of Lights at Lucky Ladd Farms, 4306 Rocky Glade Road, Eagleville.** Opens Friday November 27 on select dates. Kids under 2 are free, and ages 2 and up are $12 to $18 online.
+**Holly Jolly Festival of Lights at Lucky Ladd Farms, 4306 Rocky Glade Road, Eagleville.** Opens Friday November 27 on select dates. Kids under 2 are free, and ages 2 and up are $12 to $16 online. You can meet Santa there nightly from 6 to 8pm.
 
 **Family movies at the Franklin Theatre, 419 Main Street.** The Santa Clause on Saturday November 28 at 1:30pm, and The Muppet Christmas Carol on Sunday November 29 at 10am.
 

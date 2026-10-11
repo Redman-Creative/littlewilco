@@ -1,7 +1,7 @@
 ---
 title: "Indoor play places and open gym for toddlers in Williamson County"
 description: "Where to take a toddler on a rainy or cold day in Franklin, Brentwood, Spring Hill and Nolensville: open gym times, indoor play spaces, ages and 2026 prices."
-answer: "For toddler open gym, Let It Shine Gymnastics in Cool Springs runs Preschool Open Play Wednesdays and Fridays 9:15 to 10:45am for ages 6 and under at $12 a child, and Shining Light Gymnastics in Spring Hill has open play Wednesday and Friday mornings for $10. For indoor play spaces, Little Diggers and We Rock the Spectrum are in Franklin, The Monkey's Treehouse is in Brentwood, and TN Kids Co is in Nolensville, with admission from about $14 to $25 a child."
+answer: "For toddler open gym, Let It Shine Gymnastics in Cool Springs runs Preschool Open Play Wednesdays and Fridays 9:15 to 10:45am for ages 6 and under at $12 a child, and Shining Light Gymnastics in Spring Hill has open play Wednesday and Friday mornings for $10. For indoor play spaces, Little Diggers and We Rock the Spectrum are in Franklin, The Monkey's Treehouse is in Brentwood, Maddy's Playhouse is in Spring Hill, and TN Kids Co is in Nolensville, with admission from about $14 to $25 a child."
 date: "2026-10-21"
 category: "Rainy day"
 towns: ["Franklin", "Brentwood", "Spring Hill", "Nolensville"]
@@ -11,7 +11,7 @@ faqs:
   - q: "How much is toddler open gym near Franklin?"
     a: "Let It Shine charges $12 a child, or $10 in cash, and newborns who stay in a carrier are free. Shining Light in Spring Hill is $10 a child per session."
   - q: "Do I need grip socks at indoor play places near Franklin?"
-    a: "At some. Urban Air requires its grip socks, $4.49. TN Kids Co requires socks and sells them for $2. We Rock the Spectrum asks everyone to go shoeless and requires socks for adults."
+    a: "At some. Urban Air requires its grip socks, $4.49. TN Kids Co requires socks and sells them for $2. Maddy's Playhouse requires socks for kids and adults, and We Rock the Spectrum asks everyone to go shoeless and requires socks for adults."
   - q: "Do parents pay at indoor play places?"
     a: "Usually not for the first two. Little Diggers and TN Kids Co include two adults per family, and The Monkey's Treehouse includes two with each paying child. Each extra adult is $5 at all three."
   - q: "Is there toddler time at Urban Air Cool Springs?"
@@ -34,7 +34,7 @@ Open play pauses during school breaks while the gym runs camps, so check their c
 
 ### Shining Light Gymnastics, Spring Hill
 
-**4008 Parkfield Loop North.** Open play runs Wednesdays 9 to 10am, and Fridays in one-hour sessions at 9 and 10:30am. The main gym is for ages 6 and under, and the ninja gym is ages 1 to 10.
+**4008 Parkfield Loop North.** Open play runs Wednesdays 9 to 10am, and Fridays in one-hour sessions at 9 and 10:30am, plus a Friday noon session open to all ages. The main gym is for ages 6 and under at the morning sessions.
 
 It's $10 a child per session, and parents stay on the floor. They also have a punch card for regulars.
 
@@ -64,11 +64,19 @@ Two adults per family get in free, and each extra adult is $5. Sign the waiver o
 
 It's $18 a child, $16 for a sibling, or $25 for all day. Everyone goes shoeless, and adults need socks. Fill out the waiver online first.
 
+Through November 18 they also run a free music therapy class on Wednesdays at 10am for neurodivergent kids 0 to 5, and siblings are welcome.
+
 ### The Monkey's Treehouse, Brentwood
 
 **91 Seaboard Lane, Unit 103.** A play cafe for ages 0 to 8. Hours are Monday through Friday 9am to 2pm, Saturday 9am to 3pm, and Sunday 1 to 5pm.
 
 Open play is $19 for kids 2 and up and $15 under 2. Siblings under 1 are free with a paying child. Two adults come in free with each paying child, then it's $5 an adult. On Wednesday through Friday evenings, "Hoppy Hour" starts at 4:30 for $12.50. They ask you to sign the waiver online ahead of time.
+
+### Maddy's Playhouse, Spring Hill
+
+**2001 Campbell Station Parkway, Suite C12.** A play cafe with a toddler zone for 6 months to 3 years, a big-kid area, an espresso bar and an outdoor dig pit. It's open Tuesday, Thursday, Friday and Saturday 9am to 6pm, Wednesday 9am to 4pm, and Sunday 11am to 4pm, and closed Mondays.
+
+It's $16 a child, $32 for two kids and $48 for three or more, and babies 12 months and under are $7.50. Adults are free. Socks are required for kids and adults.
 
 ### TN Kids Co, Nolensville
 

@@ -20,6 +20,10 @@ export type PostMeta = {
   category: string;
   towns?: string[];
   faqs?: Faq[];
+  /** Domains whose links get rel="sponsored noopener" (partner or affiliate links). */
+  sponsored?: string[];
+  /** Partner disclosure shown above the article. */
+  disclosure?: string;
 };
 
 export type Post = PostMeta & { html: string; readingMinutes: number };
@@ -80,6 +84,8 @@ export function getPostMeta(slug: string): PostMeta {
     faqs: Array.isArray(data.faqs)
       ? data.faqs.map((f: { q: unknown; a: unknown }) => ({ q: String(f.q), a: String(f.a) }))
       : undefined,
+    sponsored: Array.isArray(data.sponsored) ? data.sponsored.map(String) : undefined,
+    disclosure: data.disclosure ? String(data.disclosure) : undefined,
   };
 }
 
@@ -93,6 +99,22 @@ export async function getPost(slug: string): Promise<Post> {
   // Tables need their own horizontal scroll container so the page body never
   // scrolls sideways on a phone.
   html = html.replace(/<table>/g, '<div class="table-scroll"><table>').replace(/<\/table>/g, "</table></div>");
+
+  // Partner links are marked rel="sponsored", per Google's guidance for paid
+  // and affiliate links. Domains come from the post's `sponsored` front matter.
+  const sponsored = meta.sponsored ?? [];
+  if (sponsored.length) {
+    html = html.replace(/<a href="(https?:\/\/[^"]+)"/g, (tag, href: string) => {
+      let host = "";
+      try {
+        host = new URL(href.replace(/&amp;/g, "&")).hostname.replace(/^www\./, "");
+      } catch {
+        return tag;
+      }
+      const hit = sponsored.some((d) => host === d || host.endsWith(`.${d}`));
+      return hit ? `<a href="${href}" rel="sponsored noopener" target="_blank"` : tag;
+    });
+  }
 
   const words = content.trim().split(/\s+/).length;
 

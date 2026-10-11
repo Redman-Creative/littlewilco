@@ -94,6 +94,8 @@ export default async function PostPage({ params }: Params) {
           <span>{post.readingMinutes} min read</span>
         </div>
 
+        {post.disclosure && <p className="post-disclosure">{post.disclosure}</p>}
+
         {post.answer && (
           <div className="answer-box">
             <p className="eyebrow">Short answer</p>

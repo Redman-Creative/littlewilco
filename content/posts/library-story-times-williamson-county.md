@@ -3,18 +3,18 @@ title: "Library story times for babies and toddlers in Williamson County"
 description: "Fall 2026 story time days and times at every county branch, plus the Brentwood and Spring Hill libraries, sorted by day of the week and by age."
 answer: "Williamson County has three library systems running story times for little kids. The county system (main library in Franklin plus Bethesda, College Grove, Fairview, Leiper's Fork and Nolensville) runs Babies & Books, Toddler Story Time and Pre-K Story Time at the main library on Tuesday, Wednesday and Thursday mornings. The John P. Holt Brentwood Library and the Spring Hill Public Library are run by their cities on separate calendars, and both have a Saturday morning option."
 date: "2026-08-27"
-updated: "2026-10-03"
+updated: "2026-10-07"
 category: "Free stuff"
 towns: ["Franklin", "Brentwood", "Spring Hill", "Nolensville", "Fairview", "Thompson's Station", "College Grove"]
 faqs:
   - q: "When is story time at the Williamson County Public Library in Franklin?"
     a: "For fall 2026 at the main library, 1314 Columbia Avenue: Babies & Books (0 to 18 months) on Tuesdays, Toddler Story Time (18 months to 3) on Wednesdays, and Pre-K Story Time (ages 3 to 5) on Thursdays. Each one runs twice, at 9:30 and 10:30am."
   - q: "Does Brentwood have a separate library story time?"
-    a: "Yes. The John P. Holt Brentwood Library at 8109 Concord Road is run by the City of Brentwood. It has Toddler Time on Tuesdays and Wednesdays at 10am, Preschool Storytime on the same days at 11am, Baby Bounce on Thursdays at 9:30am, and Saturday Storytime at 10:30am."
+    a: "Yes. The John P. Holt Brentwood Library at 8109 Concord Road is run by the City of Brentwood. It has Toddler Time on Tuesdays and Wednesdays at 10am, Preschool Storytime on the same days at 11am, Baby Discovery on Mondays at 11am, Baby Bounce on Thursdays at 9:30am, and Saturday Storytime at 10:30am."
   - q: "Is there a story time for babies under one?"
-    a: "Yes, a few. Babies & Books at the main Franklin library is for 0 to 18 months on Tuesdays. Nolensville has Baby & Me Playtime on Fridays, Brentwood has Baby Bounce on Thursdays, and Spring Hill has Baby Time for birth to 2 on Mondays and Saturdays."
+    a: "Yes, a few. Babies & Books at the main Franklin library is for 0 to 18 months on Tuesdays. Nolensville has Baby & Me Song & Story Time on Fridays, Brentwood has Baby Discovery on Mondays and Baby Bounce on Thursdays, and Spring Hill has Baby Time for birth to 2 on Mondays and the first Saturday of the month."
   - q: "Is there a Saturday story time near Franklin?"
-    a: "Brentwood's library has Saturday Storytime at 10:30am most of the year, with a break in June and July. Spring Hill's library has Baby Time for birth to 2 on Saturdays at 9:30am."
+    a: "Brentwood's library has Saturday Storytime at 10:30am most of the year, with a break in June and July. Spring Hill's library has Baby Time for birth to 2 on the first Saturday of the month at 9:30am."
   - q: "When is story time at the Bethesda library?"
     a: "The Bethesda branch, 4905 Bethesda Road in Thompson's Station, has Story Time on Wednesdays from 10:30 to 11:30am for toddlers and preschoolers."
   - q: "Do you need to register for library story time?"
@@ -23,33 +23,35 @@ faqs:
 
 Story time is my go-to free morning. It's indoors and free, and nobody minds if a toddler melts down halfway through. When the weather cooperates, my list of [free playgrounds and parks](/blog/free-things-to-do-with-toddlers-williamson-county) covers the outdoor version.
 
-These are the fall 2026 schedules, checked October 3. Libraries pause for holidays and staff training, so it's worth a look at the calendar the morning you go.
+These are the fall 2026 schedules, checked October 7. Libraries pause for holidays and staff training, so it's worth a look at the calendar the morning you go.
 
 ## Story time by day
 
 | Day | Library | Program | Time |
 | --- | --- | --- | --- |
 | Monday | Spring Hill | Baby Time, birth to 2 | 9:30am |
-| Monday | Brentwood | Preschool Open Play, ages 2 to 6 | 10am |
-| Monday | Brentwood | Baby Open Play, 2 and under | 11am |
+| Monday | Brentwood | Baby Discovery, 6 weeks to 24 months | 11am |
 | Tuesday | Franklin (main) | Babies & Books, 0 to 18 months | 9:30 and 10:30am |
 | Tuesday | Brentwood | Toddler Time, 18 months to 3 | 10am |
 | Tuesday | Brentwood | Preschool Storytime, 3 to 5 | 11am |
 | Tuesday | Spring Hill | Story Time, preschool | 10am |
-| Tuesday | Nolensville | Toddler Story Time | 10:30am |
+| Tuesday | Nolensville | Toddler Story Time, 12 months to 3 | 10:30am |
 | Tuesday | Leiper's Fork | Preschool Story Time, 3 to 5 | 10am, most weeks |
 | Wednesday | Franklin (main) | Toddler Story Time, 18 months to 3 | 9:30 and 10:30am |
 | Wednesday | Brentwood | Toddler Time, 18 months to 3 | 10am |
 | Wednesday | Brentwood | Preschool Storytime, 3 to 5 | 11am |
+| Wednesday | Spring Hill | Story Time, preschool | 10am |
 | Wednesday | Bethesda | Story Time | 10:30am |
 | Wednesday | Leiper's Fork | Toddler Time, 18 to 35 months, register | 10am, most weeks |
 | Thursday | Franklin (main) | Pre-K Story Time, 3 to 5 | 9:30 and 10:30am |
-| Thursday | Brentwood | Baby Bounce, up to 18 months | 9:30am |
-| Thursday | Nolensville | Preschool Story Time | 10:30am |
+| Thursday | Brentwood | Baby Bounce, up to 18 months, in sessions | 9:30am |
+| Thursday | Spring Hill | Story Time, preschool | 10am |
+| Thursday | Nolensville | Preschool Story Time, 3 to 5 | 10:30am |
 | Thursday | College Grove | Story Time | 10:30am |
 | Thursday | Fairview | Story Time, 3 to 5 | 11am |
-| Friday | Nolensville | Baby & Me Playtime with story time | 10am |
-| Saturday | Spring Hill | Baby Time, birth to 2 | 9:30am |
+| Friday | Nolensville | Baby & Me Song & Story Time, 0 to 18 months | 10am |
+| Friday | Nolensville | Craft Time, kids of all ages | 11:30am |
+| First Saturday | Spring Hill | Baby Time, birth to 2 | 9:30am |
 | Saturday | Brentwood | Saturday Storytime | 10:30am |
 
 ## Three systems, three calendars
@@ -78,9 +80,10 @@ One search tip: williamsonlibrary.org is the library in Williamson, New York. It
 
 **915 Oldham Drive.**
 
-- **Toddler Story Time**, Tuesdays at 10:30am
-- **Preschool Story Time**, Thursdays at 10:30am
-- **Baby & Me Playtime with story time**, Fridays at 10am, for babies up to 18 months
+- **Toddler Story Time**, Tuesdays at 10:30am, 12 months to 3
+- **Preschool Story Time**, Thursdays at 10:30am, ages 3 to 5
+- **Baby & Me Song & Story Time**, Fridays 10 to 10:45am, for babies up to 18 months
+- **Craft Time**, Fridays at 11:30am, kids of all ages, no registration
 
 ### Bethesda
 
@@ -107,9 +110,10 @@ One search tip: williamsonlibrary.org is the library in Williamson, New York. It
 
 - **Toddler Time**, Tuesdays and Wednesdays, 10 to 10:30am, 18 months to 3
 - **Preschool Storytime**, Tuesdays and Wednesdays, 11 to 11:30am, ages 3 to 5
-- **Baby Bounce**, Thursdays, 9:30 to 10:30am, up to 18 months, with bouncing rhymes, songs and time to play
+- **Baby Bounce**, Thursdays, 9:30 to 10:30am, up to 18 months, with bouncing rhymes, songs and time to play. It runs in sessions, so check the calendar for the current dates.
 - **Saturday Storytime**, Saturdays 10:30 to 11am, with a break in June and July. This is the one to know if you work weekdays.
-- **Preschool Open Play**, Mondays 10 to 11am, ages 2 to 6, and **Baby Open Play**, Mondays 11 to 11:45am, 2 and under
+- **Baby Discovery**, Mondays 11 to 11:45am, 6 weeks to 24 months
+- **Preschool Open Play**, ages 2 to 6, and **Baby Open Play**, 2 and under, on some Monday mornings. Check the calendar for dates.
 
 Some Brentwood programs hand out free tickets at the Children's Desk about 30 minutes before they start. The calendar listing says when one does.
 
@@ -117,8 +121,8 @@ Some Brentwood programs hand out free tickets at the Children's Desk about 30 mi
 
 **Spring Hill Public Library, 144 Kedron Parkway.**
 
-- **Baby Time**, Mondays and Saturdays, 9:30 to 10:30am, birth to 2
-- **Story Time**, Tuesdays, 10 to 11am, for preschoolers
+- **Baby Time**, Mondays 9:30 to 10:30am, and the first Saturday of the month, birth to 2
+- **Story Time**, Tuesdays, Wednesdays and Thursdays, 10 to 11am, for preschoolers
 
 ## A few tips
 

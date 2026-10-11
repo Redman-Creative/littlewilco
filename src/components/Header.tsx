@@ -10,6 +10,7 @@ export default function Header() {
         </Link>
         <nav className="site-nav" aria-label="Main">
           <Link href="/blog">Guides</Link>
+          <Link href="/discounts">Discounts</Link>
           <Link href="/#subscribe">Get the lineup</Link>
         </nav>
       </div>
