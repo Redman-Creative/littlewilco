@@ -15,7 +15,25 @@ import path from "node:path";
  * - `expires` optional. The last day the code works; it drops off the page after
  * - `partner` true when Little Wilco earns a commission. The card is labeled
  * - `guide`   optional blog post slug. Linked from the card once that post is live
+ * - `product.schemaType` what the code buys, for the page's structured data (see below)
  */
+
+/**
+ * Schema.org type for the thing a code buys, used as `itemOffered` in the
+ * /discounts JSON-LD.
+ *
+ * "Product" and "Event" are left out on purpose. Google treats either one as a
+ * rich result candidate and wants fields a discounts list page can't give it
+ * (a price or rating on the Product itself; a date and venue on the Event).
+ * Search Console flagged /discounts for this on Oct 12, 2026.
+ *
+ * - DigitalDocument  a download (guides, printables)
+ * - Service          classes, lessons, day passes, sessions, visits
+ * - MenuItem         food and drink
+ * - CreativeWork     anything else that is made, not done
+ */
+export type OfferedItemType = "DigitalDocument" | "Service" | "MenuItem" | "CreativeWork";
+
 export type Discount = {
   id: string;
   business: string;
@@ -27,7 +45,7 @@ export type Discount = {
   code: string;
   url: string;
   cta: string;
-  product?: { name: string; price: number; description: string };
+  product?: { name: string; price: number; description: string; schemaType: OfferedItemType };
   percentOff?: number;
   about: string;
   details: string;
@@ -59,6 +77,7 @@ export const discounts: Discount[] = [
       price: 29,
       description:
         "A 48-page downloadable potty training guide from Restored Nights, with a readiness quiz, a day-by-day plan and printables.",
+      schemaType: "DigitalDocument",
     },
     percentOff: 10,
     about:

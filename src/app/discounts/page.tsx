@@ -111,11 +111,11 @@ export default function DiscountsPage() {
             },
             ...(d.product
               ? {
+                  // Never "Product" here: see OfferedItemType in src/lib/discounts.ts.
                   itemOffered: {
-                    "@type": "Product",
+                    "@type": d.product.schemaType,
                     name: d.product.name,
                     description: d.product.description,
-                    brand: { "@type": "Brand", name: d.shortName },
                   },
                 }
               : {}),
