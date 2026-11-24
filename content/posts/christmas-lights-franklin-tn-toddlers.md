@@ -12,7 +12,7 @@ faqs:
   - q: "Can you walk through FrankTown Festival of Lights?"
     a: "On Walkin' Wednesdays: November 25 and December 2, 9 and 16, from 5 to 6:30pm. You need a vehicle ticket, the same price as driving, and cars go back through at 7pm."
   - q: "How much are FrankTown Festival of Lights tickets?"
-    a: "$35 for a passenger vehicle with up to 8 people, $60 for 9 to 15 people and $100 for a commercial van, bus or limo, plus Eventbrite's fee. The code LITTLEWILCO26 takes $5 off any of them."
+    a: "$35 for a passenger vehicle with up to 8 people, $60 for 9 to 15 people and $100 for a commercial van, bus or limo, plus Eventbrite's fee. The code LITTLEWILCO26 takes $5 off any of them when you buy online."
   - q: "Are Christmas lights free for toddlers near Franklin?"
     a: "Cheekwood's Holiday LIGHTS is free for kids 2 and under. Glow Wild at the Nashville Zoo and Lucky Ladd Farms' Holly Jolly Festival of Lights are free under 2, though the zoo still asks for a ticket. FrankTown charges by the car, $35 for up to 8 people, so a toddler doesn't add anything."
   - q: "Is Zoolumination happening in 2026?"
@@ -29,7 +29,7 @@ Christmas lights are one of the few evening outings that work with a toddler, es
 
 **Walkin' Wednesdays** are November 25 and December 2, 9 and 16, from 5 to 6:30pm. You walk the route instead of driving it, the ticket price is the same, and leashed dogs are welcome. Cars go back through at 7pm. With an early bedtime, those walking nights are the ones I'd pick.
 
-Tickets are sold on Eventbrite and work any night. A passenger vehicle with up to 8 people is $35, plus Eventbrite's fee. FrankTown set up a code for Little Wilco readers: **LITTLEWILCO26** takes $5 off, and the [ticket link on my discounts page](/discounts#franktown-festival-of-lights) applies it for you.
+Tickets are sold on Eventbrite and work any night. A passenger vehicle with up to 8 people is $35, plus Eventbrite's fee. FrankTown set up a code for Little Wilco readers: **LITTLEWILCO26** takes $5 off tickets bought online. The ticket link is on my [discounts page](/discounts#franktown-festival-of-lights).
 
 ## Worth the drive
 

@@ -87,9 +87,9 @@ export const discounts: Discount[] = [
     details:
       "The drive is a mile and a half, with more than 200 light displays timed to Christmas music on your car radio. Santa is there every night for free photos, and there's hot cocoa, s'mores at the fire pit and a food truck. On Walkin' Wednesdays (November 25 and December 2, 9 and 16) you can walk the route from 5 to 6:30pm on a vehicle ticket, before cars go through at 7.",
     howTo:
-      "Enter LITTLEWILCO26 under Promo Code on the Eventbrite ticket page, or use the link here, which applies it for you. A $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee.",
+      "Enter LITTLEWILCO26 under Promo Code when you buy tickets online on Eventbrite. A $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee.",
     fineprint:
-      "Works on every vehicle ticket, including the 9 to 15 person and commercial vehicle tickets, any night. FrankTown is open rain or shine and doesn't offer refunds. Little Wilco doesn't earn a commission on this code. FrankTown donated the prize for a Little Wilco giveaway in November.",
+      "For tickets bought online. Works on every vehicle ticket, including the 9 to 15 person and commercial vehicle tickets, any night. FrankTown is open rain or shine and doesn't offer refunds. Little Wilco doesn't earn a commission on this code.",
     sourceNote: "Price and code checked on Eventbrite November 23, 2026. Code from FrankTown Festival of Lights.",
     added: "2026-11-25",
     checked: "2026-11-23",
@@ -99,7 +99,7 @@ export const discounts: Discount[] = [
     faqs: [
       {
         q: "Is there a discount code for FrankTown Festival of Lights?",
-        a: "Yes. LITTLEWILCO26 takes $5 off any vehicle ticket on Eventbrite, so a $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee. Tickets are good any night through December 31, 2026.",
+        a: "Yes. LITTLEWILCO26 takes $5 off any vehicle ticket bought online on Eventbrite, so a $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee. Tickets are good any night through December 31, 2026.",
       },
       {
         q: "How much is FrankTown Festival of Lights in 2026?",
