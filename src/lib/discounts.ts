@@ -47,6 +47,8 @@ export type Discount = {
   cta: string;
   product?: { name: string; price: number; description: string; schemaType: OfferedItemType };
   percentOff?: number;
+  /** Flat dollars off, for codes that aren't a percentage. Used for the price after the code. */
+  amountOff?: number;
   about: string;
   details: string;
   howTo: string;
@@ -61,6 +63,50 @@ export type Discount = {
 };
 
 export const discounts: Discount[] = [
+  {
+    id: "franktown-festival-of-lights",
+    business: "FrankTown Festival of Lights",
+    shortName: "FrankTown Festival of Lights",
+    businessUrl: "https://franktownlights.com",
+    town: "Franklin",
+    category: "Christmas lights",
+    offer: "$5 off a vehicle ticket",
+    code: "LITTLEWILCO26",
+    url: "https://www.eventbrite.com/e/1999704158970/?discount=LITTLEWILCO26",
+    cta: "Get tickets with the code",
+    product: {
+      name: "FrankTown Festival of Lights passenger vehicle ticket",
+      price: 35,
+      description:
+        "Drive-through entry for one passenger vehicle with up to 8 people, good any night from November 20 to December 31, 2026.",
+      schemaType: "Service",
+    },
+    amountOff: 5,
+    about:
+      "FrankTown Festival of Lights is a drive-through Christmas light show at the Williamson County Ag Center on Long Lane in Franklin, open nightly from 5 to 9pm through December 31. Ticket sales support FrankTown Open Hearts, a local nonprofit that helps youth in Williamson County.",
+    details:
+      "The drive is a mile and a half, with more than 200 light displays timed to Christmas music on your car radio. Santa is there every night for free photos, and there's hot cocoa, s'mores at the fire pit and a food truck. On Walkin' Wednesdays (November 25 and December 2, 9 and 16) you can walk the route from 5 to 6:30pm on a vehicle ticket, before cars go through at 7.",
+    howTo:
+      "Enter LITTLEWILCO26 under Promo Code on the Eventbrite ticket page, or use the link here, which applies it for you. A $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee.",
+    fineprint:
+      "Works on every vehicle ticket, including the 9 to 15 person and commercial vehicle tickets, any night. FrankTown is open rain or shine and doesn't offer refunds. Little Wilco doesn't earn a commission on this code. FrankTown donated the prize for a Little Wilco giveaway in November.",
+    sourceNote: "Price and code checked on Eventbrite November 23, 2026. Code from FrankTown Festival of Lights.",
+    added: "2026-11-25",
+    checked: "2026-11-23",
+    expires: "2026-12-31",
+    partner: false,
+    guide: "christmas-lights-franklin-tn-toddlers",
+    faqs: [
+      {
+        q: "Is there a discount code for FrankTown Festival of Lights?",
+        a: "Yes. LITTLEWILCO26 takes $5 off any vehicle ticket on Eventbrite, so a $35 passenger vehicle ticket for up to 8 people comes to $30 plus Eventbrite's fee. Tickets are good any night through December 31, 2026.",
+      },
+      {
+        q: "How much is FrankTown Festival of Lights in 2026?",
+        a: "$35 for a passenger vehicle with up to 8 people, $60 for 9 to 15 people and $100 for a commercial van, bus or limo, plus Eventbrite's fee. Walkin' Wednesdays cost the same as driving.",
+      },
+    ],
+  },
   {
     id: "restored-nights-potty-playbook",
     business: "Restored Nights Sleep Consulting",
@@ -118,8 +164,10 @@ export function lastChecked(list: Discount[] = getActiveDiscounts()): string {
 
 /** Price after the code, as "26.10". */
 export function priceWithCode(d: Discount): string | null {
-  if (!d.product || !d.percentOff) return null;
-  return (Math.round(d.product.price * (100 - d.percentOff)) / 100).toFixed(2);
+  if (!d.product) return null;
+  if (d.percentOff) return (Math.round(d.product.price * (100 - d.percentOff)) / 100).toFixed(2);
+  if (d.amountOff) return Math.max(0, d.product.price - d.amountOff).toFixed(2);
+  return null;
 }
 
 /** The guide link only shows once its post is live, so the page never links to a 404. */
